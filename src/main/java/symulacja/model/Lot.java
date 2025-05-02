@@ -10,10 +10,12 @@ import java.util.List;
 public class Lot implements Rezerwowalny {
     private Samolot samolot;
     private List<Pasazer> pasazerowie = new ArrayList<>();
+    private String start;
     private String cel;
 
-    public Lot(Samolot samolot, String cel) {
+    public Lot(Samolot samolot, String start, String cel) {
         this.samolot = samolot;
+        this.start = start;
         this.cel = cel;
     }
 
@@ -34,6 +36,10 @@ public class Lot implements Rezerwowalny {
 
     public String getCel() {
         return cel;
+    }
+
+    public String getStart() {
+        return start;
     }
 }
 

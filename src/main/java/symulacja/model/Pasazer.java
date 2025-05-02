@@ -19,5 +19,9 @@ public class Pasazer extends Osoba {
     public List<Rezerwacja> getRezerwacje() {
         return rezerwacje;
     }
+
+    public String getNumerPaszportu() {
+        return numerPaszportu;
+    }
 }
 
