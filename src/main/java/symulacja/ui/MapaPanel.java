@@ -60,6 +60,7 @@ public class MapaPanel extends JPanel {
     private final javax.swing.Timer timer;
 
     public MapaPanel() {
+        setPreferredSize(new Dimension(1024, 876)); // Ustawienie preferowanego rozmiaru panelu
         try {
             mapa = ImageIO.read(getClass().getResource("/europa.png"));
         } catch (IOException e) {
@@ -75,6 +76,8 @@ public class MapaPanel extends JPanel {
         // Dodajemy testowy lot przy starcie
         SwingUtilities.invokeLater(() -> dodajPrzelot("Warszawa", "Paryż"));
         SwingUtilities.invokeLater(() -> dodajPrzelot("Budapeszt", "Londyn"));
+        SwingUtilities.invokeLater(() -> dodajPrzelot("Oslo", "Reykjavik"));
+        SwingUtilities.invokeLater(() -> dodajPrzelot("Sztokholm", "Ankara"));
 
         timer = new Timer(30, new ActionListener() {
             @Override

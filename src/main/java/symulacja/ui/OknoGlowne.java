@@ -23,6 +23,8 @@ public class OknoGlowne {
             // Otwiera nowe okno z panelem mapy
             JFrame mapaFrame = new JFrame("Mapa Europy");
             mapaFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+            mapaFrame.setSize(1024,876);
+            mapaFrame.setResizable(false);
 
             MapaPanel mapaPanel = new MapaPanel();
             mapaFrame.getContentPane().add(mapaPanel);
