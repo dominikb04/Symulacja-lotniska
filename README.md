@@ -12,13 +12,17 @@ Projekt zaliczeniowy realizowany w ramach programowania obiektowego. Aplikacja p
 
 ```bash
 git clone https://https://github.com/dominikb04/Symulacja-lotniska.git
-cd symulacja-lotniska
+```
+```bash
+cd Symulacja-lotniska
 ```
 
 
 2. **Budowanie i uruchomienie aplikacji** 
 ```bash
 gradlew build
+```
+```bash
 gradlew run
 ```
 
