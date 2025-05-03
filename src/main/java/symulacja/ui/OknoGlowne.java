@@ -20,43 +20,18 @@ public class OknoGlowne {
         JButton exitBtn = new JButton("Wyjdź");
 
         startBtn.addActionListener((ActionEvent e) -> {
-            // === Symulacja lotu ===
+            // Otwiera nowe okno z panelem mapy
+            JFrame mapaFrame = new JFrame("Mapa Europy");
+            mapaFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
-            // 1. Tworzymy samolot i lot
-            SamolotPasazerski samolot = new SamolotPasazerski("SP-LOT01", 2);
-            Lot lot = new Lot(samolot, "Warszawa", "Londyn");
+            MapaPanel mapaPanel = new MapaPanel();
+            mapaFrame.getContentPane().add(mapaPanel);
 
-            // 2. Tworzymy dwóch pasażerów
-            Pasazer p1 = new Pasazer("Marta", "Kwiatkowska", "PAS001");
-            Pasazer p2 = new Pasazer("Tomasz", "Lewandowski", "PAS002");
-
-            // 3. Dokonujemy rezerwacji
-            StringBuilder sb = new StringBuilder("Symulacja rezerwacji z " + lot.getStart() + " do " + lot.getCel() + ":\n\n");
-
-            if (lot.zarezerwujMiejsce(p1)) {
-                Rezerwacja r1 = new Rezerwacja(p1, lot);
-                p1.dodajRezerwacje(r1);
-                sb.append("✓ Rezerwacja dla ").append(p1.getPelneImie()).append(" - OK\n");
-            } else {
-                sb.append("✗ Brak miejsca dla ").append(p1.getPelneImie()).append("\n");
-            }
-
-            if (lot.zarezerwujMiejsce(p2)) {
-                Rezerwacja r2 = new Rezerwacja(p2, lot);
-                p2.dodajRezerwacje(r2);
-                sb.append("✓ Rezerwacja dla ").append(p2.getPelneImie()).append(" - OK\n");
-            } else {
-                sb.append("✗ Brak miejsca dla ").append(p2.getPelneImie()).append("\n");
-            }
-
-            sb.append("\nLista pasażerów na pokładzie:\n");
-            for (Pasazer p : lot.getPasazerowie()) {
-                sb.append("• ").append(p.getPelneImie()).append(" (").append(p.getNumerPaszportu()).append(")\n");
-            }
-
-            // 4. Wyświetlamy wynik w GUI
-            JOptionPane.showMessageDialog(frame, sb.toString());
+            mapaFrame.pack();
+            mapaFrame.setLocationRelativeTo(null);
+            mapaFrame.setVisible(true);
         });
+
 
         exitBtn.addActionListener((ActionEvent e) -> System.exit(0));
 
