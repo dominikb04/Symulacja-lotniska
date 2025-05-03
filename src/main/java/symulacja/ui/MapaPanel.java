@@ -3,16 +3,20 @@ package symulacja.ui;
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.geom.Point2D;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.util.*;
-
+import javax.swing.Timer;
 /**
- * Panel rysujący mapę Europy jako tło.
+ * Panel rysujący mapę Europy i animacje przelotów samolotów.
  */
 public class MapaPanel extends JPanel {
     private BufferedImage mapa;
-    Map<String, Point> stolice = new HashMap<>(Map.ofEntries(
+    private BufferedImage ikonaSamolotu;
+    private final Map<String, Point> stolice = new HashMap<>(Map.ofEntries(
             Map.entry("Warszawa", new Point(526, 463)),
             Map.entry("Berlin", new Point(416, 464)),
             Map.entry("Paryż", new Point(260, 550)),
@@ -52,29 +56,94 @@ public class MapaPanel extends JPanel {
             Map.entry("Lizbona", new Point(28, 752))
     ));
 
+    private final java.util.List<FlightAnimation> activeFlights = new ArrayList<>();
+    private final javax.swing.Timer timer;
+
     public MapaPanel() {
         try {
             mapa = ImageIO.read(getClass().getResource("/europa.png"));
-            setPreferredSize(new Dimension(mapa.getWidth(), mapa.getHeight()));
         } catch (IOException e) {
-            System.err.println("Nie udało się wczytać mapy.");
             e.printStackTrace();
+        }
+
+        try {
+            ikonaSamolotu = ImageIO.read(getClass().getResource("/ikonkaS.png"));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        // Dodajemy testowy lot przy starcie
+        SwingUtilities.invokeLater(() -> dodajPrzelot("Warszawa", "Paryż"));
+        SwingUtilities.invokeLater(() -> dodajPrzelot("Budapeszt", "Londyn"));
+
+        timer = new Timer(30, new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                for (Iterator<FlightAnimation> it = activeFlights.iterator(); it.hasNext(); ) {
+                    FlightAnimation flight = it.next();
+                    if (!flight.updatePosition()) {
+                        it.remove();
+                    }
+                }
+                repaint();
+            }
+        });
+        timer.start();
+    }
+
+    public void dodajPrzelot(String z, String do_) {
+        Point start = stolice.get(z);
+        Point end = stolice.get(do_);
+        if (start != null && end != null) {
+            activeFlights.add(new FlightAnimation(start, end));
         }
     }
 
     @Override
     protected void paintComponent(Graphics g) {
-        Graphics2D g2d = (Graphics2D) g; // rzutowanie do Graphics2D
-        g2d.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON); // włączenie antyaliasingu - usuwanie postrzepionych krawedzi na grafice tworzonej w kodzie
-
         super.paintComponent(g);
-        if (mapa != null) {
-            g.drawImage(mapa, 0, 0, this);
-            for (Point punkt : stolice.values()) {
-                g.setColor(Color.BLACK);
-                g.fillOval(punkt.x - 5, punkt.y - 5, 10, 10); // -5 żeby środek punktu był w miejscu stolicy
-            }
 
+        Graphics2D g2d = (Graphics2D) g;
+        g2d.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
+
+        if (mapa != null) {
+            g2d.drawImage(mapa, 0, 0, this);
+
+            // Rysowanie stolic jako czarne kropki
+            g2d.setColor(Color.BLACK);
+            for (Point punkt : stolice.values()) {
+                g2d.fillOval(punkt.x - 5, punkt.y - 5, 10, 10);
+            }
+        }
+
+        if (ikonaSamolotu != null) {
+            for (FlightAnimation flight : activeFlights) {
+                int x = (int) flight.current.x - ikonaSamolotu.getWidth() / 2;
+                int y = (int) flight.current.y - ikonaSamolotu.getHeight() / 2;
+                g2d.drawImage(ikonaSamolotu, x, y, null);
+            }
+        }
+    }
+
+    private static class FlightAnimation {
+        private final Point2D.Double current;
+        private final double dx, dy;
+        private final int steps = 100;
+        private int step = 0;
+
+        public FlightAnimation(Point start, Point end) {
+            this.current = new Point2D.Double(start.x, start.y);
+            this.dx = (end.x - start.x) / (double) steps;
+            this.dy = (end.y - start.y) / (double) steps;
+        }
+
+        public boolean updatePosition() {
+            if (step++ < steps) {
+                current.x += dx;
+                current.y += dy;
+                return true;
+            }
+            return false;
         }
     }
 }
