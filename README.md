@@ -11,7 +11,7 @@ Projekt zaliczeniowy realizowany w ramach programowania obiektowego. Aplikacja p
 
 
 ```bash
-git clone https://https://github.com/dominikb04/Symulacja-lotniska.git
+git clone https://github.com/dominikb04/Symulacja-lotniska.git
 ```
 ```bash
 cd Symulacja-lotniska
@@ -31,7 +31,6 @@ gradlew run
 
 
 Dominik Bawół
-
 
 Miłosz Łyszkiewicz
 
