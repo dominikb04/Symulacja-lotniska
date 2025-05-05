@@ -117,6 +117,10 @@ public class MapaPanel extends JPanel {
             for (Point punkt : stolice.values()) {
                 g2d.fillOval(punkt.x - 5, punkt.y - 5, 10, 10);
             }
+            // Etykiety miast
+            for(Map.Entry<String, Point> entry : stolice.entrySet()) {
+                g2d.drawString(entry.getKey(), entry.getValue().x, entry.getValue().y - 10);
+            }
         }
 
         if (ikonaSamolotu != null) {

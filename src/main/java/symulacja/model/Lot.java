@@ -13,6 +13,22 @@ public class Lot implements Rezerwowalny {
     private String start;
     private String cel;
 
+    private Pogoda pogoda;
+    private boolean odwolany;
+
+    public void sprawdzPogode(Klimat klimat) {
+        this.pogoda = klimat.generujPogode();
+        this.odwolany = pogoda.czyAwaria();
+    }
+
+    public boolean isOdwolany() {
+        return odwolany;
+    }
+
+    public Pogoda getPogoda() {
+        return pogoda;
+    }
+
     public Lot(Samolot samolot, String start, String cel) {
         this.samolot = samolot;
         this.start = start;
@@ -21,6 +37,7 @@ public class Lot implements Rezerwowalny {
 
     @Override
     public boolean zarezerwujMiejsce(Osoba osoba) {
+        if(odwolany) return false;
         if (!(osoba instanceof Pasazer)) return false;
 
         if (pasazerowie.size() < samolot.maksymalnaLiczbaPasazerow) {
