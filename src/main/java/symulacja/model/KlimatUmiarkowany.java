@@ -13,8 +13,8 @@ public class KlimatUmiarkowany extends Klimat {
     @Override
     public Pogoda generujPogode() {
         double rand = Math.random();
-        if(rand < 0.6)      return new Pogoda("Słonecznie", 0);    // 60%
-        else if(rand < 0.85) return new Pogoda("Mgliście", 0.015);   // 25%
+        if(rand < 0.6)      return new Pogoda("Slonecznie", 0);    // 60%
+        else if(rand < 0.85) return new Pogoda("Mgliscie", 0.015);   // 25%
         else if(rand < 0.95) return new Pogoda("Deszcz", 0.02);       // 10%
         else                return new Pogoda("Burza", 0.05);         // 5%
     }

@@ -13,6 +13,6 @@ public class Rezerwacja {
     }
 
     public String getSzczegoly() {
-        return pasazer.getPelneImie() + " → " + lot.getCel();
+        return pasazer.getNumerPaszportu() + " → " + lot.getCel();
     }
 }

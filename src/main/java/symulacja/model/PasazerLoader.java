@@ -1,41 +1,36 @@
 package symulacja.model;
 
-
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
-/**
- * Klasa odpowiedzialna za wczytywanie danych pasażerów z pliku tekstowego znajdującego się w folderze resources.
- */
 public class PasazerLoader {
+    private static final Random random = new Random();
 
-    /**
-     * Wczytuje pasażerów z pliku zasobów.
-     * Oczekiwany format linii:
-     * Imie,Nazwisko,NrPaszportu,Skad,Dokad,DzienLotu
-     *
-     * @param sciezka ścieżka do pliku wewnątrz folderu resources, np. "pasazerowie.txt"
-     * @return lista obiektów Pasazer
-     */
-
-    public static List<Pasazer> wczytajPasazerow(String sciezka) {
+    public static List<Pasazer> generujLosowychPasazerow(int liczba, List<String> miasta, List<String> dniTygodnia) {
         List<Pasazer> pasazerowie = new ArrayList<>();
-        try (BufferedReader reader = new BufferedReader(new InputStreamReader(PasazerLoader.class.getClassLoader().getResourceAsStream(sciezka), StandardCharsets.UTF_8))) {
-            String linia;
-            while ((linia = reader.readLine()) != null) {
-                String[] dane = linia.split(",");
-                if (dane.length == 6) {
-                    pasazerowie.add(new Pasazer(dane[0], dane[1], dane[2], dane[3], dane[4], dane[5]));
-                }
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
+
+        for (int i = 0; i < liczba; i++) {
+            String numerPaszportu = generujNumerPaszportu();
+
+            // Losowe miasta
+            String skad = miasta.get(random.nextInt(miasta.size()));
+            String dokad;
+            do {
+                dokad = miasta.get(random.nextInt(miasta.size()));
+            } while (dokad.equals(skad));
+
+            // Losowy dzień
+            String dzienLotu = dniTygodnia.get(random.nextInt(dniTygodnia.size()));
+
+            Pasazer pasazer = new Pasazer(numerPaszportu, skad, dokad, dzienLotu);
+            pasazerowie.add(pasazer);
         }
+
         return pasazerowie;
+    }
+
+    private static String generujNumerPaszportu() {
+        return "P" + (100000 + random.nextInt(900000)); // np. P123456
     }
 }

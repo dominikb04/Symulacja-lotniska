@@ -7,10 +7,14 @@ public abstract class Samolot {
     protected String numerRejestracyjny;
     protected int maksymalnaLiczbaPasazerow;
 
-    public Samolot(String numerRejestracyjny, int maks) {
+    public Samolot(String numerRejestracyjny, int maksymalnaLiczbaPasazerow) {
         this.numerRejestracyjny = numerRejestracyjny;
-        this.maksymalnaLiczbaPasazerow = maks;
+        this.maksymalnaLiczbaPasazerow = maksymalnaLiczbaPasazerow;
     }
 
     public abstract double obliczZuzyciePaliwa(int liczbaPasazerow);
+
+    public int getLiczbaMiejsc() {
+        return maksymalnaLiczbaPasazerow;
+    }
 }

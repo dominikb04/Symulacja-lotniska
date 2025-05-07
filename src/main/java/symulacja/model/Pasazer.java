@@ -4,15 +4,13 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Pasazer extends Osoba {
-    private String numerPaszportu;
     private List<Rezerwacja> rezerwacje = new ArrayList<>();
     private String skad;
     private String dokad;
     private String dzienLotu;
 
-    public Pasazer(String imie, String nazwisko, String numerPaszportu, String skad, String dokad, String dzienLotu) {
-        super(imie, nazwisko);
-        this.numerPaszportu = numerPaszportu;
+    public Pasazer(String numerPaszportu, String skad, String dokad, String dzienLotu) {
+        super(numerPaszportu);
         this.skad = skad;
         this.dokad = dokad;
         this.dzienLotu = dzienLotu;
@@ -26,10 +24,6 @@ public class Pasazer extends Osoba {
         return rezerwacje;
     }
 
-    public String getNumerPaszportu() {
-        return numerPaszportu;
-    }
-
     public String getSkad() {
         return skad;
     }
@@ -41,5 +35,9 @@ public class Pasazer extends Osoba {
     public String getDzienLotu() {
         return dzienLotu;
     }
-}
 
+    @Override
+    public String toString() {
+        return "Pasazer (" + getNumerPaszportu() + ")";
+    }
+}

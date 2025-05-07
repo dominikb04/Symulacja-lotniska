@@ -4,15 +4,18 @@ package symulacja.model;
  * Klasa bazowa dla wszystkich osób w systemie (pasażerowie, załoga).
  */
 public abstract class Osoba {
-    protected String imie;
-    protected String nazwisko;
+    private String numerPaszportu;
 
-    public Osoba(String imie, String nazwisko) {
-        this.imie = imie;
-        this.nazwisko = nazwisko;
+    public Osoba(String numerPaszportu) {
+        this.numerPaszportu = numerPaszportu;
     }
 
-    public String getPelneImie() {
-        return imie + " " + nazwisko;
+    public String getNumerPaszportu() {
+        return numerPaszportu;
+    }
+
+    @Override
+    public String toString() {
+        return "Paszport: " + numerPaszportu;
     }
 }
