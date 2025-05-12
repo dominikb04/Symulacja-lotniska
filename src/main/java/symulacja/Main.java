@@ -1,95 +1,164 @@
 package symulacja;
 
 import symulacja.model.*;
+import symulacja.ui.MapaPanel;
 
 import java.util.*;
 
-/**
- * Punkt wejścia aplikacji – uruchamia GUI i testuje system pogodowy
- */
 public class Main {
-    public static void main(String[] args) {
-        // 1. Uruchomienie GUI
-        symulacja.ui.OknoGlowne.wyswietlOkno();
+    private static Map<String, Lotnisko> lotniska;
+    private static List<Lot> wszystkieLoty;
 
-        // 2. Test systemu pogodowego
+    public static void main(String[] args) {
+        symulacja.ui.OknoGlowne.wyswietlOkno();
         testSystemuPogodowego();
     }
 
-    private static void testSystemuPogodowego() {
-        System.out.println("\n=== Rozpoczęcie testu systemu pogodowego ===");
+    public static List<Lot> wygenerujLoty() {
+        if (wszystkieLoty == null) {
+            wszystkieLoty = nowaSymulacja();
+        }
+        return wszystkieLoty;
+    }
 
+    private static List<Lot> nowaSymulacja() {
         Klimat europa = new KlimatUmiarkowany();
-        List<String> miasta = List.of(
-                "Warszawa", "Berlin", "Paryz", "Madryt", "Rzym", "Lizbona",
-                "Wieden", "Praga", "Bruksela", "Amsterdam", "Oslo", "Sztokholm",
-                "Helsinki", "Kopenhaga", "Ateny", "Budapeszt"
-        );
+        List<String> miasta = new ArrayList<>(MapaPanel.getStolice().keySet());
 
-        List<Lot> loty = new ArrayList<>();
-        Set<String> polaczenia = new HashSet<>();
+        lotniska = new HashMap<>();
+        for (String miasto : miasta) {
+            lotniska.put(miasto, new Lotnisko(miasto, europa));
+        }
 
-        int liczbaLotow = 30;
-        String dzien = "Poniedzialek";
+        List<Lot> wygenerowaneLoty = new ArrayList<>();
+        List<String> dniTygodnia = List.of("Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota", "Niedziela");
+        Random rand = new Random();
 
-        while (loty.size() < liczbaLotow) {
-            String skad = miasta.get(new Random().nextInt(miasta.size()));
-            String dokad;
-            do {
-                dokad = miasta.get(new Random().nextInt(miasta.size()));
-            } while (dokad.equals(skad));
+        for (String dzien : dniTygodnia) {
+            for (int i = 0; i < 30; i++) {
+                Lotnisko start = losoweLotnisko(lotniska.values(), rand);
+                String skad = start.getNazwa();
 
-            String klucz = skad + "->" + dokad;
-            if (polaczenia.contains(klucz)) continue;
-            polaczenia.add(klucz);
+                String dokad;
+                do {
+                    dokad = miasta.get(rand.nextInt(miasta.size()));
+                } while (dokad.equals(skad));
 
-            int pojemnosc = 90 + new Random().nextInt(71); // 90–160
-            Samolot samolot = new SamolotPasazerski("SP-" + (100 + loty.size()), pojemnosc);
-            Lot lot = new Lot(samolot, skad, dokad);
-            lot.sprawdzPogode(europa);
+                boolean towarowy = rand.nextDouble() < 0.15;
+                Samolot samolot;
+                if (towarowy) {
+                    samolot = new SamolotTowarowy("CT-" + UUID.randomUUID());
+                } else {
+                    int liczbaMiejsc = 90 + rand.nextInt(71); // 90–160
+                    samolot = new SamolotPasazerski("SP-" + UUID.randomUUID(), liczbaMiejsc);
+                }
 
-            System.out.printf("\nLot %d: %s -> %s%n", loty.size() + 1, skad, dokad);
-            System.out.println("Pogoda: " + lot.getPogoda().getOpis());
-            System.out.println("Szansa na awarie: " + (lot.getPogoda().getPrawdopodobienstwoAwarii() * 100) + "%");
+                Lot lot = new Lot(samolot, skad, dokad);
+                lot.setDzienTygodnia(dzien);
+                lot.setLotniskoStartowe(start);
+                lot.wygenerujZaloge(towarowy ? 3 : 7);
+                lot.sprawdzPogode(europa);
 
-            if (lot.isOdwolany()) {
-                System.out.println(">>> LOT ODWOLANY! <<< Powod: " + lot.getPogoda().getOpis());
-            } else {
-                System.out.println("Lot odbywa sie zgodnie z planem");
-
-                int ilePasazerow = 70 + new Random().nextInt(60);
-                for (int i = 0; i < ilePasazerow; i++) {
-                    String paszport = "P" + (100000 + new Random().nextInt(900000));
-                    Pasazer p = new Pasazer(paszport, skad, dokad, dzien);
-                    boolean sukces = lot.zarezerwujMiejsce(p);
-                    if (!sukces) {
-                        System.out.println("Nie udalo sie dodac pasazera " + p.getNumerPaszportu());
+                if (!towarowy && !lot.isOdwolany()) {
+                    int maxMiejsc = samolot.getLiczbaMiejsc();
+                    int ilePasazerow = maxMiejsc - rand.nextInt(4); // prawie pełny samolot
+                    for (int j = 0; j < ilePasazerow; j++) {
+                        String paszport = Osoba.generujNumerPaszportu("PAS");
+                        Pasazer p = new Pasazer(paszport, skad, dokad);
+                        p.setDzienLotu(dzien);
+                        lot.zarezerwujMiejsce(p);
                     }
                 }
 
-                int ileZalogi = 5 + new Random().nextInt(2);
-                for (int i = 0; i < ileZalogi; i++) {
-                    String paszport = "C" + (100000 + new Random().nextInt(900000));
-                    CzlonekZalogi czlonek = new CzlonekZalogi(paszport);
-                    lot.dodajCzlonkaZalogi(czlonek);
-                }
-
-                System.out.printf("Pasazerowie: %d/%d [LOT: %d]\n",
-                        lot.getRezerwacje().size(),
-                        samolot.getLiczbaMiejsc(),
-                        lot.hashCode());
-
-                System.out.printf("Zaloga: %d/%d\n",
-                        lot.getZaloga().size(),
-                        ((SamolotPasazerski) samolot).getMaksymalnaZaloga());
+                lot.zakonczLot(start);
+                start.dodajLot(dzien, lot);
+                wygenerowaneLoty.add(lot);
             }
+        }
+        return wygenerowaneLoty;
+    }
 
-            loty.add(lot);
+    private static void testSystemuPogodowego() {
+        List<Lot> loty = wygenerujLoty();
+        List<String> dniTygodnia = List.of("Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota", "Niedziela");
+
+        int liczbaTowarowych = 0;
+        int liczbaWszystkich = 0;
+        int liczbaOdwolanych = 0;
+        Map<String, Lotnisko> unikalneLotniska = new HashMap<>();
+
+        System.out.println("\n=== Rozpoczęcie testu systemu pogodowego (podział na dni) ===");
+
+        for (String dzien : dniTygodnia) {
+            System.out.println("\n=== " + dzien.toUpperCase() + " ===");
+
+            for (Lotnisko lotnisko : lotniska.values()) {
+                List<Lot> lotyZDanegoDnia = lotnisko.getLotyNaDzien(dzien);
+
+                for (Lot lot : lotyZDanegoDnia) {
+                    liczbaWszystkich++;
+
+                    System.out.printf("\nLot %d: %s -> %s (%s)\n", liczbaWszystkich,
+                            lot.getStart(), lot.getCel(), lot.getSamolot().getNumerRejestracyjny());
+
+                    System.out.println("Pogoda: " + (lot.getPogoda() != null ? lot.getPogoda().getOpis() : "Brak"));
+                    System.out.printf("Szansa na awarie: %.1f%%\n",
+                            lot.getPogoda() != null ? lot.getPogoda().getPrawdopodobienstwoAwarii() * 100 : 0);
+
+                    if (lot.isOdwolany()) {
+                        System.out.println(">>> LOT ODWOLANY! <<< Powód: " + lot.getPogoda().getOpis());
+                        liczbaOdwolanych++;
+                    } else {
+                        System.out.println("Lot odbywa się zgodnie z planem");
+
+                        if (!(lot.getSamolot() instanceof SamolotTowarowy)) {
+                            System.out.printf("Pasażerowie: %d/%d [LOT: %d]\n",
+                                    lot.getRezerwacje().size(),
+                                    lot.getSamolot().getLiczbaMiejsc(),
+                                    lot.hashCode());
+                        }
+
+                        String skladZalogi = lot.getZaloga().stream()
+                                .map(cz -> cz.getFunkcja().startsWith("p") ? "p" : "s")
+                                .reduce("", String::concat);
+
+                        System.out.printf("Załoga: %d/%d (%s)\n",
+                                lot.getZaloga().size(),
+                                (lot.getSamolot() instanceof SamolotPasazerski)
+                                        ? ((SamolotPasazerski) lot.getSamolot()).getMaksymalnaZaloga()
+                                        : 3,
+                                skladZalogi);
+                    }
+
+                    if (lot.getSamolot() instanceof SamolotTowarowy) {
+                        liczbaTowarowych++;
+                        System.out.println("Typ samolotu: [TOWAROWY]");
+                    }
+
+                    unikalneLotniska.putIfAbsent(lot.getStart(), new Lotnisko(lot.getStart(), new KlimatUmiarkowany()));
+                    unikalneLotniska.get(lot.getStart()).dodajPrzychod(
+                            lotniska.get(lot.getStart()).getBudzet()
+                    );
+                }
+            }
         }
 
-        // Statystyki
-        long odwolane = loty.stream().filter(Lot::isOdwolany).count();
-        System.out.printf("\n=== Podsumowanie ===\nOdwolane loty: %d/%d (%.0f%%)\nUdane loty: %d/%d\n",
-                odwolane, liczbaLotow, (odwolane / (double) liczbaLotow) * 100, liczbaLotow - odwolane, liczbaLotow);
+        System.out.printf("\n=== Podsumowanie ===\nOdwołane loty: %d/%d (%.0f%%)\nUdane loty: %d/%d (%.0f%%)\n",
+                liczbaOdwolanych, liczbaWszystkich, (liczbaOdwolanych / (double) liczbaWszystkich) * 100,
+                liczbaWszystkich - liczbaOdwolanych, liczbaWszystkich,
+                ((liczbaWszystkich - liczbaOdwolanych) / (double) liczbaWszystkich) * 100);
+
+        System.out.printf("Loty towarowe: %d (%.0f%%)\n",
+                liczbaTowarowych, (liczbaTowarowych / (double) liczbaWszystkich) * 100);
+
+        System.out.println("\n=== Budżet lotnisk ===");
+        for (Map.Entry<String, Lotnisko> entry : unikalneLotniska.entrySet()) {
+            System.out.printf("Lotnisko %-10s | Budżet: %10.2f zł\n", entry.getKey(), entry.getValue().getBudzet());
+        }
+    }
+
+    private static Lotnisko losoweLotnisko(Collection<Lotnisko> lotniska, Random rand) {
+        List<Lotnisko> lista = new ArrayList<>(lotniska);
+        return lista.get(rand.nextInt(lista.size()));
     }
 }

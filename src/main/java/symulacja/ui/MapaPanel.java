@@ -1,22 +1,33 @@
 package symulacja.ui;
 
+import symulacja.model.Lot;
+import symulacja.model.SamolotTowarowy;
+import javax.swing.Timer;
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.awt.geom.Point2D;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.util.*;
-import javax.swing.Timer;
-/**
- * Panel rysujący mapę Europy i animacje przelotów samolotów.
- */
+import java.util.List;
+
 public class MapaPanel extends JPanel {
     private BufferedImage mapa;
     private BufferedImage ikonaSamolotu;
-    private final Map<String, Point> stolice = new HashMap<>(Map.ofEntries(
+    private BufferedImage ikonaTowarowa;
+
+    private final List<Lot> wszystkieLoty;
+    private final List<FlightAnimation> activeFlights = new ArrayList<>();
+    private final Timer timer;
+
+    private final List<String> dniTygodnia = List.of(
+            "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota", "Niedziela"
+    );
+    private int indeksDnia = 0;
+    private String aktualnyDzien = dniTygodnia.get(0);
+    private static final Map<String, Point> stolice = new HashMap<>(Map.ofEntries(
             Map.entry("Warszawa", new Point(526, 463)),
             Map.entry("Berlin", new Point(416, 464)),
             Map.entry("Paryż", new Point(260, 550)),
@@ -56,49 +67,62 @@ public class MapaPanel extends JPanel {
             Map.entry("Lizbona", new Point(28, 752))
     ));
 
-    private final java.util.List<FlightAnimation> activeFlights = new ArrayList<>();
-    private final javax.swing.Timer timer;
+    public static Map<String, Point> getStolice() {
+        return Collections.unmodifiableMap(new HashMap<>(stolice));
+    }
 
-    public MapaPanel() {
-        setPreferredSize(new Dimension(1024, 876)); // Ustawienie preferowanego rozmiaru panelu
+    public MapaPanel(List<Lot> lotyZSymulacji) {
+        this.wszystkieLoty = lotyZSymulacji;
+        setPreferredSize(new Dimension(1024, 876));
+
         try {
             mapa = ImageIO.read(getClass().getResource("/europa.png"));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        try {
             ikonaSamolotu = ImageIO.read(getClass().getResource("/ikonkaS.png"));
+            ikonaTowarowa = ImageIO.read(getClass().getResource("/ikonkaT.png"));
         } catch (IOException e) {
             e.printStackTrace();
         }
 
-        // Dodajemy testowy lot przy starcie
-        SwingUtilities.invokeLater(() -> dodajPrzelot("Warszawa", "Paryż"));
-        SwingUtilities.invokeLater(() -> dodajPrzelot("Budapeszt", "Londyn"));
-        SwingUtilities.invokeLater(() -> dodajPrzelot("Oslo", "Reykjavik"));
-        SwingUtilities.invokeLater(() -> dodajPrzelot("Sztokholm", "Ankara"));
+        SwingUtilities.invokeLater(() -> wyswietlDzien(dniTygodnia.get(indeksDnia)));
 
-        timer = new Timer(30, new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                for (Iterator<FlightAnimation> it = activeFlights.iterator(); it.hasNext(); ) {
-                    FlightAnimation flight = it.next();
-                    if (!flight.updatePosition()) {
-                        it.remove();
-                    }
+        timer = new Timer(30, e -> {
+            for (Iterator<FlightAnimation> it = activeFlights.iterator(); it.hasNext(); ) {
+                FlightAnimation flight = it.next();
+                if (!flight.updatePosition()) {
+                    it.remove();
                 }
-                repaint();
             }
+            repaint();
         });
         timer.start();
     }
 
-    public void dodajPrzelot(String z, String do_) {
+    public void nextDay() {
+        indeksDnia = (indeksDnia + 1) % dniTygodnia.size();
+        aktualnyDzien = dniTygodnia.get(indeksDnia);
+        wyswietlDzien(aktualnyDzien);
+    }
+
+    public void wyswietlDzien(String dzien) {
+        activeFlights.clear();
+
+        int licznik = 0;
+        for (Lot lot : wszystkieLoty) {
+            String dzienLotu = lot.getDzienTygodnia();
+            if (dzienLotu != null && dzien.equalsIgnoreCase(dzienLotu) && !lot.isOdwolany()) {
+                boolean towarowy = lot.getSamolot() instanceof SamolotTowarowy;
+                dodajPrzelot(lot.getStart(), lot.getCel(), towarowy);
+                licznik++;
+            }
+        }
+        repaint();
+    }
+
+    public void dodajPrzelot(String z, String do_, boolean towarowy) {
         Point start = stolice.get(z);
         Point end = stolice.get(do_);
         if (start != null && end != null) {
-            activeFlights.add(new FlightAnimation(start, end));
+            activeFlights.add(new FlightAnimation(start, end, towarowy));
         }
     }
 
@@ -111,25 +135,31 @@ public class MapaPanel extends JPanel {
 
         if (mapa != null) {
             g2d.drawImage(mapa, 0, 0, this);
-
-            // Rysowanie stolic jako czarne kropki
             g2d.setColor(Color.BLACK);
             for (Point punkt : stolice.values()) {
                 g2d.fillOval(punkt.x - 5, punkt.y - 5, 10, 10);
             }
-            // Etykiety miast
-            for(Map.Entry<String, Point> entry : stolice.entrySet()) {
+            for (Map.Entry<String, Point> entry : stolice.entrySet()) {
                 g2d.drawString(entry.getKey(), entry.getValue().x, entry.getValue().y - 10);
             }
         }
 
-        if (ikonaSamolotu != null) {
-            for (FlightAnimation flight : activeFlights) {
-                int x = (int) flight.current.x - ikonaSamolotu.getWidth() / 2;
-                int y = (int) flight.current.y - ikonaSamolotu.getHeight() / 2;
-                g2d.drawImage(ikonaSamolotu, x, y, null);
-            }
+        for (FlightAnimation flight : activeFlights) {
+            BufferedImage ikona = flight.isTowarowy() ? ikonaTowarowa : ikonaSamolotu;
+            Point2D.Double pos = flight.getCurrent();
+            int x = (int) pos.x - ikona.getWidth() / 2;
+            int y = (int) pos.y - ikona.getHeight() / 2;
+            g2d.drawImage(ikona, x, y, null);
         }
+        // Wyświetlanie aktualnego dnia tygodnia na górze mapy
+        g2d.setColor(new Color(255, 255, 255, 200)); // lekko przezroczyste tło
+        g2d.fillRoundRect(400, 10, 220, 30, 15, 15);
+
+        g2d.setColor(Color.BLACK);
+        g2d.setFont(new Font("SansSerif", Font.BOLD, 18));
+        FontMetrics fm = g2d.getFontMetrics();
+        int textWidth = fm.stringWidth(aktualnyDzien);
+        g2d.drawString(aktualnyDzien, 512 - textWidth / 2, 32);
     }
 
     private static class FlightAnimation {
@@ -137,11 +167,13 @@ public class MapaPanel extends JPanel {
         private final double dx, dy;
         private final int steps = 100;
         private int step = 0;
+        private final boolean towarowy;
 
-        public FlightAnimation(Point start, Point end) {
+        public FlightAnimation(Point start, Point end, boolean towarowy) {
             this.current = new Point2D.Double(start.x, start.y);
             this.dx = (end.x - start.x) / (double) steps;
             this.dy = (end.y - start.y) / (double) steps;
+            this.towarowy = towarowy;
         }
 
         public boolean updatePosition() {
@@ -151,6 +183,14 @@ public class MapaPanel extends JPanel {
                 return true;
             }
             return false;
+        }
+
+        public Point2D.Double getCurrent() {
+            return current;
+        }
+
+        public boolean isTowarowy() {
+            return towarowy;
         }
     }
 }

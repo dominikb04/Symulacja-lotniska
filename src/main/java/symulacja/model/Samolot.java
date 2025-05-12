@@ -11,6 +11,13 @@ public abstract class Samolot {
         this.numerRejestracyjny = numerRejestracyjny;
         this.maksymalnaLiczbaPasazerow = maksymalnaLiczbaPasazerow;
     }
+    public String getNumerRejestracyjny() {
+        return numerRejestracyjny;
+    }
+    //konstruktor dla samolotów towarowych
+    public Samolot(String numerRejestracyjny) {
+        this(numerRejestracyjny, 0);
+    }
 
     public abstract double obliczZuzyciePaliwa(int liczbaPasazerow);
 

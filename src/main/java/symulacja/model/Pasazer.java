@@ -9,11 +9,10 @@ public class Pasazer extends Osoba {
     private String dokad;
     private String dzienLotu;
 
-    public Pasazer(String numerPaszportu, String skad, String dokad, String dzienLotu) {
+    public Pasazer(String numerPaszportu, String skad, String dokad) {
         super(numerPaszportu);
         this.skad = skad;
         this.dokad = dokad;
-        this.dzienLotu = dzienLotu;
     }
 
     public void dodajRezerwacje(Rezerwacja r) {
@@ -36,6 +35,9 @@ public class Pasazer extends Osoba {
         return dzienLotu;
     }
 
+    public void setDzienLotu(String dzienLotu) {
+        this.dzienLotu = dzienLotu;
+    }
     @Override
     public String toString() {
         return "Pasazer (" + getNumerPaszportu() + ")";

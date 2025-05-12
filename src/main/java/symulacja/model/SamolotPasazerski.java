@@ -8,7 +8,7 @@ public class SamolotPasazerski extends Samolot {
     private final int maksymalnaZaloga = 7;
 
     public SamolotPasazerski(String numerRejestracyjny, int liczbaMiejsc) {
-        super(numerRejestracyjny, liczbaMiejsc); // przekazujemy oba!
+        super(numerRejestracyjny, liczbaMiejsc);
     }
 
     @Override
@@ -20,5 +20,4 @@ public class SamolotPasazerski extends Samolot {
         return maksymalnaZaloga;
     }
 
-    // getLiczbaMiejsc() już dziedziczymy z klasy bazowej – nie trzeba go tu powtarzać
 }
