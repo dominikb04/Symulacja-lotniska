@@ -1,0 +1,2916 @@
+=== LICZBA LOTÓW KAŻDEGO DNIA ===
+Poniedziałek: 131
+Wtorek: 145
+Środa: 144
+Czwartek: 137
+Piątek: 153
+Sobota: 154
+Niedziela: 136
+
+=== SZCZEGÓŁY LOTÓW ===
+[Poniedziałek] Wiedeń -> Praga | Pasażerowie: 116/118 [LOT: 916868057]
+
+[Poniedziałek] Wilno -> Warszawa | Pasażerowie: 143/143 [LOT: 375890789]
+
+[Poniedziałek] Ryga -> Sztokholm | Pasażerowie: 99/99 [LOT: 2090754426]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-0380
+- PAS-0381
+
+[Poniedziałek] Oslo -> Amsterdam | Pasażerowie: 93/93 [LOT: 148444451]
+
+[Poniedziałek] Zagrzeb -> Rzym | Pasażerowie: 0/0 [LOT: 557366876]
+
+[Poniedziałek] Ryga -> Paryż | Pasażerowie: 87/90 [LOT: 490558560]
+
+[Poniedziałek] Londyn -> Sofia | Pasażerowie: 156/157 [LOT: 441318709]
+
+[Poniedziałek] Tallin -> Budapeszt | Pasażerowie: 153/154 [LOT: 1878951397]
+
+[Poniedziałek] Kopenhaga -> Reykjavik | Pasażerowie: 143/145 [LOT: 576046606]
+
+[Poniedziałek] Ankara -> Berno | Pasażerowie: 99/99 [LOT: 121348606]
+
+[Poniedziałek] Wiedeń -> Lizbona | Pasażerowie: 103/105 [LOT: 126153945]
+
+[Poniedziałek] Madryt -> Paryż | Pasażerowie: 150/150 [LOT: 570348131]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-1425
+- PAS-1426
+
+[Poniedziałek] Berno -> Rzym | Pasażerowie: 151/151 [LOT: 1161456095]
+
+[Poniedziałek] Wilno -> Kopenhaga | Pasażerowie: 142/142 [LOT: 310156511]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-1734
+- PAS-1735
+- PAS-1736
+- PAS-1737
+
+[Poniedziałek] Madryt -> Warszawa | Pasażerowie: 0/0 [LOT: 826327784]
+
+[Poniedziałek] Madryt -> Warszawa | Pasażerowie: 97/97 [LOT: 342453104]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-1845
+- PAS-1846
+
+[Poniedziałek] Helsinki -> Berlin | Pasażerowie: 143/143 [LOT: 102905470]
+
+[Poniedziałek] Ryga -> Mińsk | Pasażerowie: 148/150 [LOT: 1079058715]
+
+[Poniedziałek] Zagrzeb -> Podgorica | Pasażerowie: 0/0 [LOT: 245481081]
+
+[Poniedziałek] Helsinki -> Zagrzeb | Pasażerowie: 90/93 [LOT: 108391233]
+
+[Poniedziałek] Tirana -> Ryga | Pasażerowie: 118/118 [LOT: 129731991]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-2377
+
+[Poniedziałek] Paryż -> Kopenhaga | Pasażerowie: 143/144 [LOT: 15234301]
+
+[Poniedziałek] Ankara -> Kijów | Pasażerowie: 0/0 [LOT: 1724488056]
+
+[Poniedziałek] Tirana -> Tallin | Pasażerowie: 0/0 [LOT: 40305059]
+
+[Poniedziałek] Ateny -> Kopenhaga | Pasażerowie: 126/127 [LOT: 222820920]
+
+[Poniedziałek] Mińsk -> Moskwa | Pasażerowie: 99/101 [LOT: 1561767473]
+
+[Poniedziałek] Madryt -> Moskwa | Pasażerowie: 116/116 [LOT: 1763804621]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-2896
+- PAS-2897
+
+[Poniedziałek] Bruksela -> Budapeszt | Pasażerowie: 113/113 [LOT: 143044524]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-3018
+- PAS-3019
+- PAS-3020
+
+[Poniedziałek] Skopje -> Bratysława | Pasażerowie: 129/129 [LOT: 973448586]
+
+[Poniedziałek] Reykjavik -> Wilno | Pasażerowie: 105/105 [LOT: 1861689005]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-3269
+- PAS-3270
+- PAS-3271
+
+[Poniedziałek] Tirana -> Warszawa | Pasażerowie: 97/100 [LOT: 401965116]
+
+[Poniedziałek] Tallin -> Wiedeń | Pasażerowie: 111/113 [LOT: 124901645]
+
+[Poniedziałek] Warszawa -> Kijów | Pasażerowie: 94/94 [LOT: 362062747]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-3595
+- PAS-3596
+- PAS-3597
+- PAS-3598
+- PAS-3599
+
+[Poniedziałek] Budapeszt -> Berno | Pasażerowie: 105/107 [LOT: 1235195811]
+
+[Poniedziałek] Bukareszt -> Budapeszt | Pasażerowie: 0/0 [LOT: 898094213]
+
+[Poniedziałek] Tallin -> Ateny | Pasażerowie: 116/119 [LOT: 771903129]
+
+[Poniedziałek] Kiszyniów -> Podgorica | Pasażerowie: 120/120 [LOT: 344494212]
+
+[Poniedziałek] Belgrad -> Dublin | Pasażerowie: 105/106 [LOT: 1388065840]
+
+[Poniedziałek] Bukareszt -> Paryż | Pasażerowie: 0/0 [LOT: 920053306]
+
+[Poniedziałek] Sztokholm -> Londyn | Pasażerowie: 0/0 [LOT: 486452161]
+
+[Poniedziałek] Bukareszt -> Berno | Pasażerowie: 114/114 [LOT: 1649431219]
+
+[Poniedziałek] Tallin -> Berno | Pasażerowie: 151/154 [LOT: 1078428520]
+
+[Poniedziałek] Rzym -> Berno | Pasażerowie: 99/99 [LOT: 178593193]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-4468
+- PAS-4469
+
+[Poniedziałek] Sarajewo -> Madryt | Pasażerowie: 106/106 [LOT: 346833317]
+
+[Poniedziałek] Tallin -> Tirana | Pasażerowie: 159/160 [LOT: 1536030504]
+
+[Poniedziałek] Berno -> Amsterdam | Pasażerowie: 159/160 [LOT: 1815915994]
+
+[Poniedziałek] Warszawa -> Ateny | Pasażerowie: 0/0 [LOT: 648989668]
+
+[Poniedziałek] Londyn -> Kopenhaga | Pasażerowie: 160/160 [LOT: 138824113]
+
+[Poniedziałek] Tirana -> Skopje | Pasażerowie: 99/101 [LOT: 1922076483]
+
+[Poniedziałek] Bukareszt -> Mińsk | Pasażerowie: 0/0 [LOT: 755368008]
+
+[Poniedziałek] Skopje -> Podgorica | Pasażerowie: 147/149 [LOT: 1663973091]
+
+[Poniedziałek] Wilno -> Londyn | Pasażerowie: 95/95 [LOT: 306405253]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-5450
+- PAS-5451
+- PAS-5452
+- PAS-5453
+
+[Poniedziałek] Mińsk -> Wilno | Pasażerowie: 128/131 [LOT: 318207415]
+
+[Poniedziałek] Kopenhaga -> Praga | Pasażerowie: 107/107 [LOT: 1808102054]
+
+[Poniedziałek] Kopenhaga -> Lizbona | Pasażerowie: 98/101 [LOT: 12597349]
+
+[Poniedziałek] Amsterdam -> Reykjavik | Pasażerowie: 0/0 [LOT: 752932068]
+
+[Poniedziałek] Kijów -> Podgorica | Pasażerowie: 0/0 [LOT: 1160368666]
+
+[Poniedziałek] Bratysława -> Rzym | Pasażerowie: 0/0 [LOT: 352895152]
+
+[Poniedziałek] Tirana -> Sarajewo | Pasażerowie: 121/123 [LOT: 1782673521]
+
+[Poniedziałek] Skopje -> Budapeszt | Pasażerowie: 143/143 [LOT: 737442382]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-6095
+- PAS-6096
+
+[Poniedziałek] Wiedeń -> Praga | Pasażerowie: 134/135 [LOT: 1575649670]
+
+[Poniedziałek] Praga -> Berno | Pasażerowie: 99/101 [LOT: 240660186]
+
+[Poniedziałek] Madryt -> Rzym | Pasażerowie: 135/136 [LOT: 1518163678]
+
+[Poniedziałek] Kiszyniów -> Londyn | Pasażerowie: 123/126 [LOT: 1633248117]
+
+[Poniedziałek] Bruksela -> Budapeszt | Pasażerowie: 158/160 [LOT: 895738435]
+
+[Poniedziałek] Kiszyniów -> Berlin | Pasażerowie: 119/119 [LOT: 1541973294]
+
+[Poniedziałek] Helsinki -> Berno | Pasażerowie: 124/124 [LOT: 1884698566]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-7038
+
+[Poniedziałek] Kijów -> Kopenhaga | Pasażerowie: 126/129 [LOT: 1389883094]
+
+[Poniedziałek] Warszawa -> Paryż | Pasażerowie: 118/119 [LOT: 148305326]
+
+[Poniedziałek] Amsterdam -> Mińsk | Pasażerowie: 158/158 [LOT: 2098891492]
+
+[Poniedziałek] Ankara -> Ryga | Pasażerowie: 110/110 [LOT: 899620123]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-7579
+- PAS-7580
+- PAS-7581
+- PAS-7582
+- PAS-7583
+
+[Poniedziałek] Budapeszt -> Kiszyniów | Pasażerowie: 145/145 [LOT: 700092905]
+
+[Poniedziałek] Ryga -> Reykjavik | Pasażerowie: 133/135 [LOT: 1512454418]
+
+[Poniedziałek] Warszawa -> Skopje | Pasażerowie: 102/102 [LOT: 77207918]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-7985
+- PAS-7986
+- PAS-7987
+- PAS-7988
+- PAS-7989
+
+[Poniedziałek] Podgorica -> Madryt | Pasażerowie: 96/96 [LOT: 2030309087]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-8093
+- PAS-8094
+
+[Poniedziałek] Oslo -> Wilno | Pasażerowie: 147/149 [LOT: 16923551]
+
+[Poniedziałek] Bruksela -> Bukareszt | Pasażerowie: 99/102 [LOT: 470221729]
+
+[Poniedziałek] Bruksela -> Dublin | Pasażerowie: 97/97 [LOT: 956735922]
+
+[Poniedziałek] Bruksela -> Tallin | Pasażerowie: 103/103 [LOT: 79725297]
+
+[Poniedziałek] Sztokholm -> Ryga | Pasażerowie: 0/0 [LOT: 135370265]
+
+[Poniedziałek] Wiedeń -> Bukareszt | Pasażerowie: 130/133 [LOT: 282077413]
+
+[Poniedziałek] Berno -> Warszawa | Pasażerowie: 0/0 [LOT: 578565131]
+
+[Poniedziałek] Podgorica -> Rzym | Pasażerowie: 154/156 [LOT: 2022052490]
+
+[Poniedziałek] Helsinki -> Rzym | Pasażerowie: 0/0 [LOT: 701406044]
+
+[Poniedziałek] Oslo -> Rzym | Pasażerowie: 152/152 [LOT: 107769228]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-9035
+- PAS-9036
+
+[Poniedziałek] Sztokholm -> Wiedeń | Pasażerowie: 0/0 [LOT: 2047918997]
+
+[Poniedziałek] Kiszyniów -> Rzym | Pasażerowie: 150/150 [LOT: 417623346]
+
+[Poniedziałek] Mińsk -> Tallin | Pasażerowie: 123/123 [LOT: 1169519570]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-9327
+- PAS-9328
+- PAS-9329
+- PAS-9330
+- PAS-9331
+
+[Poniedziałek] Tallin -> Belgrad | Pasażerowie: 104/104 [LOT: 1388180709]
+
+[Poniedziałek] Tirana -> Bruksela | Pasażerowie: 98/100 [LOT: 835559323]
+
+[Poniedziałek] Ryga -> Praga | Pasażerowie: 94/94 [LOT: 1429997213]
+
+[Poniedziałek] Moskwa -> Ryga | Pasażerowie: 92/93 [LOT: 316120280]
+
+[Poniedziałek] Sztokholm -> Wiedeń | Pasażerowie: 120/120 [LOT: 764759964]
+
+[Poniedziałek] Sofia -> Berno | Pasażerowie: 0/0 [LOT: 2125804432]
+
+[Poniedziałek] Ryga -> Ankara | Pasażerowie: 0/0 [LOT: 1026198561]
+
+[Poniedziałek] Kijów -> Budapeszt | Pasażerowie: 147/147 [LOT: 100887436]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-10035
+
+[Poniedziałek] Bukareszt -> Sarajewo | Pasażerowie: 94/94 [LOT: 2081376770]
+
+[Poniedziałek] Warszawa -> Amsterdam | Pasażerowie: 123/126 [LOT: 1046530806]
+
+[Poniedziałek] Budapeszt -> Ateny | Pasażerowie: 0/0 [LOT: 1625547939]
+
+[Poniedziałek] Bukareszt -> Wilno | Pasażerowie: 158/158 [LOT: 1194927436]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-10435
+- PAS-10436
+- PAS-10437
+- PAS-10438
+- PAS-10439
+
+[Poniedziałek] Sofia -> Kijów | Pasażerowie: 117/117 [LOT: 832360762]
+
+[Poniedziałek] Skopje -> Madryt | Pasażerowie: 98/101 [LOT: 234041588]
+
+[Poniedziałek] Budapeszt -> Sarajewo | Pasażerowie: 151/151 [LOT: 795050374]
+
+[Poniedziałek] Helsinki -> Budapeszt | Pasażerowie: 0/0 [LOT: 471048001]
+
+[Poniedziałek] Dublin -> Wilno | Pasażerowie: 141/141 [LOT: 1704591118]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-10978
+- PAS-10979
+- PAS-10980
+- PAS-10981
+
+[Poniedziałek] Bruksela -> Podgorica | Pasażerowie: 144/146 [LOT: 781916624]
+
+[Poniedziałek] Warszawa -> Reykjavik | Pasażerowie: 0/145 [LOT: 1273824992]
+
+[Poniedziałek] Kijów -> Rzym | Pasażerowie: 149/149 [LOT: 1886361079]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-11296
+- PAS-11297
+
+[Poniedziałek] Moskwa -> Kopenhaga | Pasażerowie: 146/148 [LOT: 651627805]
+
+[Poniedziałek] Sztokholm -> Amsterdam | Pasażerowie: 96/96 [LOT: 507241386]
+
+[Poniedziałek] Oslo -> Berno | Pasażerowie: 116/117 [LOT: 1191966808]
+
+[Poniedziałek] Kopenhaga -> Sztokholm | Pasażerowie: 107/107 [LOT: 897437198]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-11791
+- PAS-11792
+- PAS-11793
+
+[Poniedziałek] Ateny -> Praga | Pasażerowie: 120/120 [LOT: 1378492939]
+
+[Poniedziałek] Berlin -> Sztokholm | Pasażerowie: 125/125 [LOT: 176295422]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-12053
+- PAS-12054
+- PAS-12055
+- PAS-12056
+- PAS-12057
+
+[Poniedziałek] Moskwa -> Sztokholm | Pasażerowie: 101/101 [LOT: 468770814]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-12166
+- PAS-12167
+- PAS-12168
+- PAS-12169
+
+[Poniedziałek] Berlin -> Ankara | Pasażerowie: 0/0 [LOT: 584044600]
+
+[Poniedziałek] Amsterdam -> Madryt | Pasażerowie: 129/132 [LOT: 1611183510]
+
+[Poniedziałek] Moskwa -> Kijów | Pasażerowie: 136/137 [LOT: 1302640731]
+
+[Poniedziałek] Budapeszt -> Tallin | Pasażerowie: 0/101 [LOT: 1576468030]
+
+[Poniedziałek] Kijów -> Tallin | Pasażerowie: 142/142 [LOT: 2027438856]
+
+[Poniedziałek] Kopenhaga -> Londyn | Pasażerowie: 117/117 [LOT: 957618969]
+
+[Poniedziałek] Dublin -> Reykjavik | Pasażerowie: 0/0 [LOT: 1570736982]
+
+[Poniedziałek] Wilno -> Wiedeń | Pasażerowie: 0/0 [LOT: 2129021955]
+
+[Poniedziałek] Sarajewo -> Lizbona | Pasażerowie: 157/157 [LOT: 875453909]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-12902
+- PAS-12903
+- PAS-12904
+- PAS-12905
+
+[Poniedziałek] Ateny -> Oslo | Pasażerowie: 93/94 [LOT: 926993006]
+
+[Poniedziałek] Amsterdam -> Berno | Pasażerowie: 0/0 [LOT: 578035191]
+
+[Poniedziałek] Podgorica -> Rzym | Pasażerowie: 139/141 [LOT: 592494122]
+
+[Poniedziałek] Sztokholm -> Reykjavik | Pasażerowie: 0/0 [LOT: 1217986697]
+
+[Poniedziałek] Kiszyniów -> Oslo | Pasażerowie: 115/115 [LOT: 1220067866]
+
+[Poniedziałek] Wiedeń -> Lizbona | Pasażerowie: 0/0 [LOT: 1769863159]
+
+[Poniedziałek] Moskwa -> Reykjavik | Pasażerowie: 92/93 [LOT: 1673251947]
+
+[Wtorek] Tirana -> Bruksela | Pasażerowie: 132/132 [LOT: 2020562861]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-13521
+- PAS-13522
+
+[Wtorek] Praga -> Zagrzeb | Pasażerowie: 118/118 [LOT: 1749326166]
+
+[Wtorek] Bukareszt -> Skopje | Pasażerowie: 96/99 [LOT: 358443716]
+
+[Wtorek] Tirana -> Kopenhaga | Pasażerowie: 0/0 [LOT: 632760463]
+
+[Wtorek] Sztokholm -> Helsinki | Pasażerowie: 103/103 [LOT: 937229578]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-13864
+
+[Wtorek] Kopenhaga -> Berno | Pasażerowie: 0/0 [LOT: 657330795]
+
+[Wtorek] Ankara -> Helsinki | Pasażerowie: 139/139 [LOT: 813828797]
+
+[Wtorek] Reykjavik -> Warszawa | Pasażerowie: 155/155 [LOT: 1438048971]
+
+[Wtorek] Reykjavik -> Kopenhaga | Pasażerowie: 113/116 [LOT: 522141361]
+
+[Wtorek] Sofia -> Warszawa | Pasażerowie: 121/124 [LOT: 766329065]
+
+[Wtorek] Reykjavik -> Budapeszt | Pasażerowie: 91/93 [LOT: 269152161]
+
+[Wtorek] Helsinki -> Sofia | Pasażerowie: 0/137 [LOT: 657703759]
+
+[Wtorek] Sofia -> Madryt | Pasażerowie: 104/107 [LOT: 1230399278]
+
+[Wtorek] Moskwa -> Paryż | Pasażerowie: 0/0 [LOT: 561469969]
+
+[Wtorek] Berno -> Paryż | Pasażerowie: 109/109 [LOT: 529867506]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-14759
+- PAS-14760
+- PAS-14761
+- PAS-14762
+
+[Wtorek] Dublin -> Ankara | Pasażerowie: 144/144 [LOT: 707499632]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-14914
+- PAS-14915
+
+[Wtorek] Berno -> Wiedeń | Pasażerowie: 0/0 [LOT: 1025048032]
+
+[Wtorek] Wiedeń -> Kopenhaga | Pasażerowie: 156/156 [LOT: 902579549]
+
+[Wtorek] Skopje -> Sztokholm | Pasażerowie: 143/144 [LOT: 920361352]
+
+[Wtorek] Sofia -> Berlin | Pasażerowie: 145/145 [LOT: 85252475]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-15384
+- PAS-15385
+
+[Wtorek] Madryt -> Lizbona | Pasażerowie: 112/112 [LOT: 186755121]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-15505
+- PAS-15506
+- PAS-15507
+
+[Wtorek] Kopenhaga -> Londyn | Pasażerowie: 118/120 [LOT: 1122260503]
+
+[Wtorek] Paryż -> Ateny | Pasażerowie: 128/128 [LOT: 1604912465]
+
+[Wtorek] Zagrzeb -> Ankara | Pasażerowie: 114/114 [LOT: 356218555]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-15889
+- PAS-15890
+- PAS-15891
+
+[Wtorek] Ryga -> Reykjavik | Pasażerowie: 0/0 [LOT: 1794252130]
+
+[Wtorek] Londyn -> Lizbona | Pasażerowie: 98/98 [LOT: 1466138005]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-16000
+- PAS-16001
+
+[Wtorek] Bruksela -> Paryż | Pasażerowie: 151/152 [LOT: 185386308]
+
+[Wtorek] Ankara -> Tallin | Pasażerowie: 96/96 [LOT: 1631308773]
+
+[Wtorek] Kiszyniów -> Reykjavik | Pasażerowie: 100/102 [LOT: 46756929]
+
+[Wtorek] Lizbona -> Helsinki | Pasażerowie: 0/0 [LOT: 1407357640]
+
+[Wtorek] Bruksela -> Bratysława | Pasażerowie: 131/131 [LOT: 784840205]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-16511
+- PAS-16512
+
+[Wtorek] Mińsk -> Tallin | Pasażerowie: 0/0 [LOT: 1222573431]
+
+[Wtorek] Bruksela -> Oslo | Pasażerowie: 0/0 [LOT: 844365425]
+
+[Wtorek] Moskwa -> Kiszyniów | Pasażerowie: 0/0 [LOT: 1211165780]
+
+[Wtorek] Tallin -> Ateny | Pasażerowie: 150/150 [LOT: 1469780027]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-16679
+- PAS-16680
+
+[Wtorek] Wiedeń -> Praga | Pasażerowie: 0/0 [LOT: 260260680]
+
+[Wtorek] Wilno -> Mińsk | Pasażerowie: 105/105 [LOT: 1027677287]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-16796
+
+[Wtorek] Oslo -> Rzym | Pasażerowie: 0/93 [LOT: 805905034]
+
+[Wtorek] Moskwa -> Praga | Pasażerowie: 112/112 [LOT: 1663578247]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-16923
+- PAS-16924
+- PAS-16925
+- PAS-16926
+
+[Wtorek] Berlin -> Moskwa | Pasażerowie: 105/108 [LOT: 1782890694]
+
+[Wtorek] Oslo -> Lizbona | Pasażerowie: 103/104 [LOT: 2096489396]
+
+[Wtorek] Bukareszt -> Ankara | Pasażerowie: 0/0 [LOT: 486863500]
+
+[Wtorek] Berno -> Oslo | Pasażerowie: 160/160 [LOT: 1818739402]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-17319
+- PAS-17320
+- PAS-17321
+- PAS-17322
+
+[Wtorek] Berlin -> Reykjavik | Pasażerowie: 152/155 [LOT: 1754538012]
+
+[Wtorek] Sofia -> Rzym | Pasażerowie: 141/142 [LOT: 509718983]
+
+[Wtorek] Ryga -> Tirana | Pasażerowie: 134/136 [LOT: 720241318]
+
+[Wtorek] Moskwa -> Praga | Pasażerowie: 119/119 [LOT: 1947895680]
+
+[Wtorek] Paryż -> Wiedeń | Pasażerowie: 101/101 [LOT: 334124260]
+
+[Wtorek] Warszawa -> Dublin | Pasażerowie: 159/159 [LOT: 696380125]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-18171
+- PAS-18172
+- PAS-18173
+
+[Wtorek] Lizbona -> Helsinki | Pasażerowie: 93/96 [LOT: 1329113120]
+
+[Wtorek] Reykjavik -> Sofia | Pasażerowie: 106/106 [LOT: 542572156]
+
+[Wtorek] Sofia -> Skopje | Pasażerowie: 130/130 [LOT: 1502351594]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-18524
+- PAS-18525
+- PAS-18526
+- PAS-18527
+
+[Wtorek] Bruksela -> Warszawa | Pasażerowie: 99/99 [LOT: 1717228744]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-18634
+
+[Wtorek] Bratysława -> Kopenhaga | Pasażerowie: 134/134 [LOT: 1778666031]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-18776
+- PAS-18777
+- PAS-18778
+- PAS-18779
+
+[Wtorek] Bukareszt -> Berlin | Pasażerowie: 131/134 [LOT: 1423000063]
+
+[Wtorek] Reykjavik -> Bukareszt | Pasażerowie: 144/145 [LOT: 1108664327]
+
+[Wtorek] Lizbona -> Sztokholm | Pasażerowie: 92/92 [LOT: 1857753290]
+
+[Wtorek] Podgorica -> Helsinki | Pasażerowie: 134/134 [LOT: 49746759]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-19309
+- PAS-19310
+
+[Wtorek] Berno -> Mińsk | Pasażerowie: 110/111 [LOT: 822976855]
+
+[Wtorek] Kijów -> Lizbona | Pasażerowie: 143/143 [LOT: 751275050]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-19578
+- PAS-19579
+- PAS-19580
+- PAS-19581
+
+[Wtorek] Ateny -> Warszawa | Pasażerowie: 0/0 [LOT: 1385824052]
+
+[Wtorek] Sofia -> Mińsk | Pasażerowie: 0/0 [LOT: 1200975660]
+
+[Wtorek] Moskwa -> Skopje | Pasażerowie: 157/160 [LOT: 292247004]
+
+[Wtorek] Ryga -> Kiszyniów | Pasażerowie: 139/141 [LOT: 1672692519]
+
+[Wtorek] Bratysława -> Bruksela | Pasażerowie: 0/0 [LOT: 1055987750]
+
+[Wtorek] Berno -> Dublin | Pasażerowie: 0/0 [LOT: 81464806]
+
+[Wtorek] Wiedeń -> Tallin | Pasażerowie: 0/0 [LOT: 421933590]
+
+[Wtorek] Ryga -> Dublin | Pasażerowie: 0/0 [LOT: 1973862929]
+
+[Wtorek] Lizbona -> Dublin | Pasażerowie: 0/0 [LOT: 1134609579]
+
+[Wtorek] Berno -> Rzym | Pasażerowie: 105/105 [LOT: 1397438676]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-20025
+- PAS-20026
+- PAS-20027
+- PAS-20028
+- PAS-20029
+
+[Wtorek] Rzym -> Paryż | Pasażerowie: 99/102 [LOT: 587412110]
+
+[Wtorek] Mińsk -> Bukareszt | Pasażerowie: 154/154 [LOT: 1150636953]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-20297
+- PAS-20298
+- PAS-20299
+- PAS-20300
+
+[Wtorek] Sarajewo -> Berlin | Pasażerowie: 0/0 [LOT: 533222660]
+
+[Wtorek] Kopenhaga -> Moskwa | Pasażerowie: 141/141 [LOT: 562368715]
+
+[Wtorek] Podgorica -> Moskwa | Pasażerowie: 128/131 [LOT: 1656994272]
+
+[Wtorek] Sztokholm -> Wilno | Pasażerowie: 107/109 [LOT: 1804072383]
+
+[Wtorek] Lizbona -> Moskwa | Pasażerowie: 91/94 [LOT: 1517374459]
+
+[Wtorek] Wilno -> Oslo | Pasażerowie: 0/0 [LOT: 936796777]
+
+[Wtorek] Budapeszt -> Madryt | Pasażerowie: 149/149 [LOT: 1608591853]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-20958
+- PAS-20959
+
+[Wtorek] Tallin -> Helsinki | Pasażerowie: 91/93 [LOT: 995190691]
+
+[Wtorek] Belgrad -> Kopenhaga | Pasażerowie: 100/100 [LOT: 1980801576]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-21165
+
+[Wtorek] Kijów -> Kiszyniów | Pasażerowie: 110/110 [LOT: 1511014782]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-21283
+- PAS-21284
+- PAS-21285
+- PAS-21286
+- PAS-21287
+
+[Wtorek] Bratysława -> Moskwa | Pasażerowie: 91/92 [LOT: 989522439]
+
+[Wtorek] Skopje -> Tallin | Pasażerowie: 129/129 [LOT: 210557247]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-21522
+- PAS-21523
+
+[Wtorek] Warszawa -> Praga | Pasażerowie: 160/160 [LOT: 959939867]
+
+[Wtorek] Reykjavik -> Praga | Pasażerowie: 97/97 [LOT: 605594690]
+
+[Wtorek] Madryt -> Wiedeń | Pasażerowie: 147/149 [LOT: 1230182247]
+
+[Wtorek] Sofia -> Dublin | Pasażerowie: 150/153 [LOT: 597255138]
+
+[Wtorek] Bukareszt -> Londyn | Pasażerowie: 126/128 [LOT: 605471877]
+
+[Wtorek] Berlin -> Bukareszt | Pasażerowie: 153/153 [LOT: 1481582377]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-22399
+
+[Wtorek] Sofia -> Reykjavik | Pasażerowie: 0/0 [LOT: 1956874440]
+
+[Wtorek] Skopje -> Tallin | Pasażerowie: 113/116 [LOT: 1937731063]
+
+[Wtorek] Lizbona -> Berno | Pasażerowie: 90/91 [LOT: 1459418995]
+
+[Wtorek] Zagrzeb -> Helsinki | Pasażerowie: 122/122 [LOT: 719385370]
+
+[Wtorek] Belgrad -> Helsinki | Pasażerowie: 141/141 [LOT: 368642520]
+
+[Wtorek] Kopenhaga -> Bruksela | Pasażerowie: 89/90 [LOT: 2074398063]
+
+[Wtorek] Dublin -> Sofia | Pasażerowie: 139/139 [LOT: 1111848612]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-23139
+- PAS-23140
+- PAS-23141
+- PAS-23142
+
+[Wtorek] Sofia -> Budapeszt | Pasażerowie: 127/127 [LOT: 15055339]
+
+[Wtorek] Tallin -> Kopenhaga | Pasażerowie: 0/0 [LOT: 837001067]
+
+[Wtorek] Sofia -> Oslo | Pasażerowie: 90/90 [LOT: 320458681]
+
+[Wtorek] Amsterdam -> Bratysława | Pasażerowie: 113/114 [LOT: 1916324062]
+
+[Wtorek] Zagrzeb -> Warszawa | Pasażerowie: 103/106 [LOT: 1932572118]
+
+[Wtorek] Belgrad -> Wilno | Pasażerowie: 0/0 [LOT: 1826528294]
+
+[Wtorek] Bruksela -> Budapeszt | Pasażerowie: 130/130 [LOT: 186495190]
+
+[Wtorek] Paryż -> Madryt | Pasażerowie: 125/127 [LOT: 1542813784]
+
+[Wtorek] Ateny -> Budapeszt | Pasażerowie: 122/123 [LOT: 920931440]
+
+[Wtorek] Berno -> Londyn | Pasażerowie: 94/94 [LOT: 1702826749]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-24109
+- PAS-24110
+
+[Wtorek] Londyn -> Ryga | Pasażerowie: 125/128 [LOT: 1033808168]
+
+[Wtorek] Kijów -> Tirana | Pasażerowie: 133/133 [LOT: 471236380]
+
+[Wtorek] Ankara -> Wilno | Pasażerowie: 147/147 [LOT: 559876810]
+
+[Wtorek] Londyn -> Bukareszt | Pasażerowie: 132/133 [LOT: 1471269509]
+
+[Wtorek] Sztokholm -> Warszawa | Pasażerowie: 109/109 [LOT: 1635843459]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-24792
+- PAS-24793
+- PAS-24794
+
+[Wtorek] Helsinki -> Podgorica | Pasażerowie: 0/0 [LOT: 1746890494]
+
+[Wtorek] Sofia -> Wilno | Pasażerowie: 0/0 [LOT: 9592573]
+
+[Wtorek] Dublin -> Ryga | Pasażerowie: 157/159 [LOT: 1875031526]
+
+[Wtorek] Budapeszt -> Tallin | Pasażerowie: 90/93 [LOT: 346531900]
+
+[Wtorek] Lizbona -> Berno | Pasażerowie: 140/142 [LOT: 1544498212]
+
+[Wtorek] Warszawa -> Paryż | Pasażerowie: 125/127 [LOT: 1643395314]
+
+[Wtorek] Amsterdam -> Tallin | Pasażerowie: 0/0 [LOT: 757567811]
+
+[Wtorek] Belgrad -> Amsterdam | Pasażerowie: 99/101 [LOT: 624489369]
+
+[Wtorek] Kijów -> Wilno | Pasażerowie: 0/0 [LOT: 889194349]
+
+[Wtorek] Mińsk -> Bukareszt | Pasażerowie: 153/153 [LOT: 755826169]
+
+[Wtorek] Warszawa -> Ryga | Pasażerowie: 111/111 [LOT: 1312113999]
+
+[Wtorek] Podgorica -> Tallin | Pasażerowie: 155/155 [LOT: 1800007227]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-25893
+- PAS-25894
+- PAS-25895
+
+[Wtorek] Moskwa -> Tallin | Pasażerowie: 110/113 [LOT: 1890633991]
+
+[Wtorek] Moskwa -> Bruksela | Pasażerowie: 137/137 [LOT: 1379820446]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-26157
+- PAS-26158
+
+[Wtorek] Bruksela -> Amsterdam | Pasażerowie: 153/153 [LOT: 1725329940]
+
+[Wtorek] Amsterdam -> Kiszyniów | Pasażerowie: 94/96 [LOT: 959887088]
+
+[Wtorek] Bukareszt -> Wiedeń | Pasażerowie: 137/137 [LOT: 1840564026]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-26564
+- PAS-26565
+- PAS-26566
+
+[Wtorek] Dublin -> Bukareszt | Pasażerowie: 93/95 [LOT: 855362464]
+
+[Wtorek] Bruksela -> Sarajewo | Pasażerowie: 158/158 [LOT: 1974650653]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-26832
+- PAS-26833
+- PAS-26834
+
+[Wtorek] Bukareszt -> Sofia | Pasażerowie: 138/141 [LOT: 331451138]
+
+[Wtorek] Oslo -> Mińsk | Pasażerowie: 129/129 [LOT: 747726221]
+
+[Wtorek] Berno -> Lizbona | Pasażerowie: 0/130 [LOT: 645658541]
+
+[Wtorek] Sarajewo -> Londyn | Pasażerowie: 129/132 [LOT: 1791087813]
+
+[Wtorek] Madryt -> Berno | Pasażerowie: 138/138 [LOT: 522969569]
+
+[Wtorek] Berlin -> Tallin | Pasażerowie: 113/113 [LOT: 1726000204]
+
+[Wtorek] Tirana -> Mińsk | Pasażerowie: 138/139 [LOT: 509989318]
+
+[Wtorek] Praga -> Moskwa | Pasażerowie: 99/101 [LOT: 1834927640]
+
+[Wtorek] Bukareszt -> Sarajewo | Pasażerowie: 0/0 [LOT: 873209897]
+
+[Wtorek] Zagrzeb -> Bratysława | Pasażerowie: 134/134 [LOT: 612495424]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-27919
+- PAS-27920
+- PAS-27921
+
+[Wtorek] Sztokholm -> Wiedeń | Pasażerowie: 0/0 [LOT: 632291938]
+
+[Wtorek] Tirana -> Sztokholm | Pasażerowie: 150/150 [LOT: 1306425853]
+
+[Wtorek] Bruksela -> Skopje | Pasażerowie: 95/98 [LOT: 1165930999]
+
+[Wtorek] Bukareszt -> Rzym | Pasażerowie: 134/136 [LOT: 1304555068]
+
+[Środa] Berlin -> Dublin | Pasażerowie: 0/0 [LOT: 280908502]
+
+[Środa] Londyn -> Tirana | Pasażerowie: 106/107 [LOT: 259003641]
+
+[Środa] Budapeszt -> Amsterdam | Pasażerowie: 139/141 [LOT: 1200569675]
+
+[Środa] Rzym -> Moskwa | Pasażerowie: 106/107 [LOT: 1967489198]
+
+[Środa] Helsinki -> Wilno | Pasażerowie: 121/121 [LOT: 2069129568]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-28828
+
+[Środa] Moskwa -> Tirana | Pasażerowie: 115/115 [LOT: 1043702599]
+
+[Środa] Reykjavik -> Sztokholm | Pasażerowie: 159/159 [LOT: 1784971259]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-29117
+- PAS-29118
+- PAS-29119
+- PAS-29120
+
+[Środa] Belgrad -> Mińsk | Pasażerowie: 142/145 [LOT: 1881648637]
+
+[Środa] Kiszyniów -> Wilno | Pasażerowie: 148/148 [LOT: 751421394]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-29425
+- PAS-29426
+- PAS-29427
+- PAS-29428
+
+[Środa] Sarajewo -> Belgrad | Pasażerowie: 109/109 [LOT: 359321915]
+
+[Środa] Dublin -> Bruksela | Pasażerowie: 89/91 [LOT: 2032190137]
+
+[Środa] Berlin -> Oslo | Pasażerowie: 116/118 [LOT: 1265935792]
+
+[Środa] Budapeszt -> Tirana | Pasażerowie: 148/148 [LOT: 1532664977]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-29919
+- PAS-29920
+- PAS-29921
+- PAS-29922
+
+[Środa] Berlin -> Wiedeń | Pasażerowie: 126/126 [LOT: 710748979]
+
+[Środa] Mińsk -> Praga | Pasażerowie: 0/0 [LOT: 1770064371]
+
+[Środa] Sofia -> Skopje | Pasażerowie: 108/111 [LOT: 1284807231]
+
+[Środa] Zagrzeb -> Ryga | Pasażerowie: 136/137 [LOT: 420155617]
+
+[Środa] Reykjavik -> Kopenhaga | Pasażerowie: 97/100 [LOT: 52013616]
+
+[Środa] Paryż -> Wiedeń | Pasażerowie: 121/122 [LOT: 707087027]
+
+[Środa] Sztokholm -> Kopenhaga | Pasażerowie: 101/101 [LOT: 613415857]
+
+[Środa] Tirana -> Berno | Pasażerowie: 126/129 [LOT: 1873927970]
+
+[Środa] Bratysława -> Warszawa | Pasażerowie: 130/131 [LOT: 2147365395]
+
+[Środa] Kijów -> Lizbona | Pasażerowie: 131/132 [LOT: 441771018]
+
+[Środa] Rzym -> Wilno | Pasażerowie: 139/140 [LOT: 507723447]
+
+[Środa] Kopenhaga -> Sarajewo | Pasażerowie: 0/0 [LOT: 1020883330]
+
+[Środa] Kiszyniów -> Tallin | Pasażerowie: 109/110 [LOT: 1695492315]
+
+[Środa] Belgrad -> Dublin | Pasażerowie: 108/108 [LOT: 1649830185]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-31445
+- PAS-31446
+- PAS-31447
+- PAS-31448
+
+[Środa] Ryga -> Ankara | Pasażerowie: 156/156 [LOT: 1406402185]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-31612
+- PAS-31613
+- PAS-31614
+
+[Środa] Bruksela -> Tallin | Pasażerowie: 0/0 [LOT: 434100073]
+
+[Środa] Ankara -> Sztokholm | Pasażerowie: 107/108 [LOT: 219669282]
+
+[Środa] Skopje -> Belgrad | Pasażerowie: 106/106 [LOT: 1963382159]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-31845
+- PAS-31846
+- PAS-31847
+
+[Środa] Sztokholm -> Oslo | Pasażerowie: 144/146 [LOT: 1396557665]
+
+[Środa] Skopje -> Dublin | Pasażerowie: 157/157 [LOT: 25470032]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-32163
+- PAS-32164
+- PAS-32165
+
+[Środa] Skopje -> Bratysława | Pasażerowie: 0/0 [LOT: 2064981606]
+
+[Środa] Dublin -> Sztokholm | Pasażerowie: 0/0 [LOT: 440032870]
+
+[Środa] Helsinki -> Moskwa | Pasażerowie: 123/123 [LOT: 323456191]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-32302
+- PAS-32303
+- PAS-32304
+
+[Środa] Wiedeń -> Kijów | Pasażerowie: 146/147 [LOT: 1811257071]
+
+[Środa] Berlin -> Madryt | Pasażerowie: 140/140 [LOT: 1293703122]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-32605
+- PAS-32606
+- PAS-32607
+
+[Środa] Bratysława -> Moskwa | Pasażerowie: 149/149 [LOT: 882175041]
+
+[Środa] Kiszyniów -> Bratysława | Pasażerowie: 138/140 [LOT: 636104625]
+
+[Środa] Praga -> Kopenhaga | Pasażerowie: 0/0 [LOT: 1830316482]
+
+[Środa] Londyn -> Belgrad | Pasażerowie: 144/147 [LOT: 737318755]
+
+[Środa] Kijów -> Bruksela | Pasażerowie: 0/0 [LOT: 177971095]
+
+[Środa] Reykjavik -> Podgorica | Pasażerowie: 0/0 [LOT: 1496204940]
+
+[Środa] Moskwa -> Paryż | Pasażerowie: 111/112 [LOT: 2003278045]
+
+[Środa] Rzym -> Amsterdam | Pasażerowie: 101/102 [LOT: 2113057060]
+
+[Środa] Berlin -> Kopenhaga | Pasażerowie: 151/151 [LOT: 220872272]
+
+[Środa] Ankara -> Warszawa | Pasażerowie: 112/115 [LOT: 462181821]
+
+[Środa] Bukareszt -> Moskwa | Pasażerowie: 133/133 [LOT: 622496109]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-33712
+- PAS-33713
+- PAS-33714
+- PAS-33715
+- PAS-33716
+
+[Środa] Tallin -> Rzym | Pasażerowie: 120/120 [LOT: 963186869]
+
+[Środa] Sofia -> Bruksela | Pasażerowie: 0/0 [LOT: 288357025]
+
+[Środa] Sofia -> Ateny | Pasażerowie: 159/159 [LOT: 1910326035]
+
+[Środa] Tirana -> Kijów | Pasażerowie: 130/131 [LOT: 681179125]
+
+[Środa] Londyn -> Belgrad | Pasażerowie: 140/142 [LOT: 1618200395]
+
+[Środa] Sztokholm -> Sarajewo | Pasażerowie: 114/114 [LOT: 1657340814]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-34418
+- PAS-34419
+- PAS-34420
+
+[Środa] Mińsk -> Bruksela | Pasażerowie: 146/149 [LOT: 1492309077]
+
+[Środa] Belgrad -> Rzym | Pasażerowie: 151/153 [LOT: 165779434]
+
+[Środa] Londyn -> Dublin | Pasażerowie: 107/108 [LOT: 1681672919]
+
+[Środa] Ryga -> Belgrad | Pasażerowie: 137/137 [LOT: 1515987408]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-34990
+- PAS-34991
+
+[Środa] Dublin -> Kopenhaga | Pasażerowie: 103/106 [LOT: 668526356]
+
+[Środa] Mińsk -> Berlin | Pasażerowie: 153/155 [LOT: 666431736]
+
+[Środa] Berlin -> Kijów | Pasażerowie: 127/127 [LOT: 1671250784]
+
+[Środa] Madryt -> Wilno | Pasażerowie: 147/149 [LOT: 1614944618]
+
+[Środa] Paryż -> Praga | Pasażerowie: 0/0 [LOT: 1071109951]
+
+[Środa] Praga -> Ankara | Pasażerowie: 150/150 [LOT: 498421941]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-35710
+- PAS-35711
+- PAS-35712
+
+[Środa] Podgorica -> Kopenhaga | Pasażerowie: 90/91 [LOT: 1846431678]
+
+[Środa] Mińsk -> Moskwa | Pasażerowie: 100/101 [LOT: 1203258204]
+
+[Środa] Zagrzeb -> Sofia | Pasażerowie: 107/110 [LOT: 725085713]
+
+[Środa] Berno -> Bruksela | Pasażerowie: 130/130 [LOT: 2111406995]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-36168
+- PAS-36169
+- PAS-36170
+- PAS-36171
+- PAS-36172
+
+[Środa] Wilno -> Sofia | Pasażerowie: 156/159 [LOT: 1192530596]
+
+[Środa] Mińsk -> Ryga | Pasażerowie: 110/113 [LOT: 388512407]
+
+[Środa] Ryga -> Reykjavik | Pasażerowie: 130/130 [LOT: 766858360]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-36590
+- PAS-36591
+
+[Środa] Belgrad -> Rzym | Pasażerowie: 123/126 [LOT: 21316205]
+
+[Środa] Oslo -> Bratysława | Pasażerowie: 136/137 [LOT: 2029369302]
+
+[Środa] Bukareszt -> Moskwa | Pasażerowie: 0/142 [LOT: 1776713845]
+
+[Środa] Helsinki -> Kopenhaga | Pasażerowie: 0/0 [LOT: 1113039331]
+
+[Środa] Podgorica -> Londyn | Pasażerowie: 105/105 [LOT: 490547558]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-36987
+- PAS-36988
+- PAS-36989
+
+[Środa] Helsinki -> Tallin | Pasażerowie: 107/107 [LOT: 1365795193]
+
+[Środa] Sofia -> Podgorica | Pasażerowie: 128/128 [LOT: 883707381]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-37239
+
+[Środa] Dublin -> Bukareszt | Pasażerowie: 106/109 [LOT: 310925581]
+
+[Środa] Ateny -> Praga | Pasażerowie: 0/0 [LOT: 751018490]
+
+[Środa] Wilno -> Helsinki | Pasażerowie: 0/156 [LOT: 766305650]
+
+[Środa] Madryt -> Oslo | Pasażerowie: 124/124 [LOT: 1869852647]
+
+[Środa] Londyn -> Kijów | Pasażerowie: 137/137 [LOT: 1801735541]
+
+[Środa] Belgrad -> Bruksela | Pasażerowie: 112/115 [LOT: 1279287293]
+
+[Środa] Berno -> Londyn | Pasażerowie: 97/100 [LOT: 335167941]
+
+[Środa] Tallin -> Ankara | Pasażerowie: 107/107 [LOT: 1011746407]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-37975
+- PAS-37976
+- PAS-37977
+- PAS-37978
+- PAS-37979
+
+[Środa] Sztokholm -> Paryż | Pasażerowie: 0/0 [LOT: 1888759194]
+
+[Środa] Bruksela -> Sarajewo | Pasażerowie: 154/154 [LOT: 2046967276]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-38144
+- PAS-38145
+- PAS-38146
+- PAS-38147
+- PAS-38148
+
+[Środa] Skopje -> Berno | Pasażerowie: 122/122 [LOT: 1836373961]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-38278
+- PAS-38279
+
+[Środa] Budapeszt -> Tallin | Pasażerowie: 114/116 [LOT: 800696300]
+
+[Środa] Lizbona -> Ryga | Pasażerowie: 99/101 [LOT: 1816304455]
+
+[Środa] Berlin -> Sofia | Pasażerowie: 129/131 [LOT: 542828691]
+
+[Środa] Warszawa -> Bratysława | Pasażerowie: 135/138 [LOT: 2128047225]
+
+[Środa] Berlin -> Skopje | Pasażerowie: 0/130 [LOT: 255054546]
+
+[Środa] Mińsk -> Lizbona | Pasażerowie: 0/0 [LOT: 1053716159]
+
+[Środa] Sarajewo -> Reykjavik | Pasażerowie: 91/91 [LOT: 1420248943]
+
+[Środa] Belgrad -> Paryż | Pasażerowie: 156/156 [LOT: 495876221]
+
+[Środa] Rzym -> Sofia | Pasażerowie: 125/125 [LOT: 628941356]
+
+[Środa] Madryt -> Sofia | Pasażerowie: 0/0 [LOT: 1946393441]
+
+[Środa] Warszawa -> Berno | Pasażerowie: 0/0 [LOT: 631935110]
+
+[Środa] Sofia -> Ryga | Pasażerowie: 134/137 [LOT: 61571885]
+
+[Środa] Kopenhaga -> Sarajewo | Pasażerowie: 0/0 [LOT: 882799523]
+
+[Środa] Rzym -> Mińsk | Pasażerowie: 0/0 [LOT: 2036877337]
+
+[Środa] Ryga -> Tallin | Pasażerowie: 113/114 [LOT: 513649570]
+
+[Środa] Reykjavik -> Dublin | Pasażerowie: 101/104 [LOT: 1912925790]
+
+[Środa] Belgrad -> Wilno | Pasażerowie: 0/0 [LOT: 299375814]
+
+[Środa] Ryga -> Bruksela | Pasażerowie: 153/153 [LOT: 1391868238]
+
+[Środa] Berno -> Tirana | Pasażerowie: 0/0 [LOT: 1619493083]
+
+[Środa] Bruksela -> Berno | Pasażerowie: 122/124 [LOT: 1961027093]
+
+[Środa] Belgrad -> Budapeszt | Pasażerowie: 156/156 [LOT: 408281825]
+
+[Środa] Budapeszt -> Paryż | Pasażerowie: 106/106 [LOT: 1587090071]
+
+[Środa] Wilno -> Kijów | Pasażerowie: 0/0 [LOT: 667153411]
+
+[Środa] Helsinki -> Wiedeń | Pasażerowie: 91/91 [LOT: 133010983]
+
+[Środa] Sofia -> Oslo | Pasażerowie: 0/0 [LOT: 475023458]
+
+[Środa] Skopje -> Ateny | Pasażerowie: 153/153 [LOT: 1276709464]
+
+[Środa] Mińsk -> Rzym | Pasażerowie: 0/151 [LOT: 1295997186]
+
+[Środa] Zagrzeb -> Berno | Pasażerowie: 0/0 [LOT: 291670310]
+
+[Środa] Oslo -> Madryt | Pasażerowie: 133/134 [LOT: 1171157350]
+
+[Środa] Madryt -> Zagrzeb | Pasażerowie: 0/0 [LOT: 699995365]
+
+[Środa] Helsinki -> Wiedeń | Pasażerowie: 135/135 [LOT: 1596649683]
+
+[Środa] Kopenhaga -> Bukareszt | Pasażerowie: 150/151 [LOT: 1772077153]
+
+[Środa] Podgorica -> Mińsk | Pasażerowie: 140/143 [LOT: 2128764870]
+
+[Środa] Londyn -> Helsinki | Pasażerowie: 99/102 [LOT: 1418893045]
+
+[Środa] Londyn -> Tirana | Pasażerowie: 0/0 [LOT: 926178024]
+
+[Środa] Sofia -> Ateny | Pasażerowie: 145/148 [LOT: 1803985925]
+
+[Środa] Mińsk -> Bratysława | Pasażerowie: 108/110 [LOT: 1496712283]
+
+[Środa] Bruksela -> Madryt | Pasażerowie: 156/157 [LOT: 1728576044]
+
+[Środa] Zagrzeb -> Tirana | Pasażerowie: 90/92 [LOT: 1383036791]
+
+[Środa] Sztokholm -> Berno | Pasażerowie: 103/103 [LOT: 595362427]
+
+[Środa] Tallin -> Zagrzeb | Pasażerowie: 0/0 [LOT: 7664197]
+
+[Środa] Bukareszt -> Bratysława | Pasażerowie: 0/0 [LOT: 98197716]
+
+[Środa] Podgorica -> Sarajewo | Pasażerowie: 91/93 [LOT: 1776882867]
+
+[Środa] Bratysława -> Kiszyniów | Pasażerowie: 99/99 [LOT: 39978564]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-41959
+
+[Środa] Kijów -> Dublin | Pasażerowie: 0/137 [LOT: 1680167606]
+
+[Środa] Sofia -> Helsinki | Pasażerowie: 0/0 [LOT: 1909696448]
+
+[Środa] Sofia -> Madryt | Pasażerowie: 106/109 [LOT: 1884862397]
+
+[Środa] Sofia -> Berno | Pasażerowie: 137/139 [LOT: 651009958]
+
+[Środa] Wilno -> Kijów | Pasażerowie: 140/140 [LOT: 830210453]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-42374
+- PAS-42375
+
+[Środa] Berlin -> Ryga | Pasażerowie: 95/95 [LOT: 257395085]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-42478
+
+[Środa] Belgrad -> Ryga | Pasażerowie: 98/100 [LOT: 866684332]
+
+[Środa] Tirana -> Wiedeń | Pasażerowie: 133/134 [LOT: 2097655351]
+
+[Środa] Rzym -> Zagrzeb | Pasażerowie: 92/92 [LOT: 2087012061]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-42823
+- PAS-42824
+- PAS-42825
+
+[Środa] Moskwa -> Berlin | Pasażerowie: 149/152 [LOT: 962716715]
+
+[Czwartek] Tirana -> Berlin | Pasażerowie: 157/157 [LOT: 2133626750]
+
+[Czwartek] Kijów -> Kiszyniów | Pasażerowie: 98/100 [LOT: 1155214892]
+
+[Czwartek] Londyn -> Budapeszt | Pasażerowie: 0/0 [LOT: 1452447077]
+
+[Czwartek] Ateny -> Madryt | Pasażerowie: 135/137 [LOT: 1365163105]
+
+[Czwartek] Lizbona -> Bukareszt | Pasażerowie: 119/121 [LOT: 1544259178]
+
+[Czwartek] Amsterdam -> Zagrzeb | Pasażerowie: 110/110 [LOT: 1612524228]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-43639
+- PAS-43640
+- PAS-43641
+- PAS-43642
+- PAS-43643
+
+[Czwartek] Praga -> Berno | Pasażerowie: 0/0 [LOT: 1610659]
+
+[Czwartek] Reykjavik -> Ateny | Pasażerowie: 111/114 [LOT: 587999096]
+
+[Czwartek] Podgorica -> Praga | Pasażerowie: 0/0 [LOT: 1323749876]
+
+[Czwartek] Kijów -> Bukareszt | Pasażerowie: 152/152 [LOT: 665332279]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-43927
+- PAS-43928
+- PAS-43929
+- PAS-43930
+- PAS-43931
+
+[Czwartek] Rzym -> Paryż | Pasażerowie: 0/0 [LOT: 585597519]
+
+[Czwartek] Amsterdam -> Podgorica | Pasażerowie: 0/0 [LOT: 1620837067]
+
+[Czwartek] Rzym -> Belgrad | Pasażerowie: 98/100 [LOT: 274754481]
+
+[Czwartek] Wiedeń -> Warszawa | Pasażerowie: 0/0 [LOT: 610074864]
+
+[Czwartek] Kiszyniów -> Wiedeń | Pasażerowie: 0/0 [LOT: 1556880638]
+
+[Czwartek] Belgrad -> Helsinki | Pasażerowie: 98/98 [LOT: 712807864]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-44154
+
+[Czwartek] Tirana -> Rzym | Pasażerowie: 93/94 [LOT: 1161046394]
+
+[Czwartek] Paryż -> Warszawa | Pasażerowie: 99/100 [LOT: 1925984641]
+
+[Czwartek] Paryż -> Ankara | Pasażerowie: 0/0 [LOT: 1109854418]
+
+[Czwartek] Bukareszt -> Wiedeń | Pasażerowie: 0/0 [LOT: 1110294535]
+
+[Czwartek] Tallin -> Belgrad | Pasażerowie: 148/148 [LOT: 1101129777]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-44522
+- PAS-44523
+- PAS-44524
+
+[Czwartek] Kijów -> Podgorica | Pasażerowie: 0/0 [LOT: 247140914]
+
+[Czwartek] Sofia -> Oslo | Pasażerowie: 141/141 [LOT: 379986814]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-44676
+- PAS-44677
+- PAS-44678
+- PAS-44679
+- PAS-44680
+
+[Czwartek] Lizbona -> Zagrzeb | Pasażerowie: 91/94 [LOT: 1439292453]
+
+[Czwartek] Bukareszt -> Budapeszt | Pasażerowie: 157/158 [LOT: 999135450]
+
+[Czwartek] Kopenhaga -> Sztokholm | Pasażerowie: 104/105 [LOT: 839764057]
+
+[Czwartek] Bratysława -> Lizbona | Pasażerowie: 116/119 [LOT: 762707730]
+
+[Czwartek] Sztokholm -> Rzym | Pasażerowie: 147/147 [LOT: 638693364]
+
+[Czwartek] Ankara -> Kopenhaga | Pasażerowie: 133/133 [LOT: 1096787563]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-45471
+- PAS-45472
+- PAS-45473
+- PAS-45474
+- PAS-45475
+
+[Czwartek] Tirana -> Wilno | Pasażerowie: 158/160 [LOT: 2134002962]
+
+[Czwartek] Ryga -> Oslo | Pasażerowie: 0/0 [LOT: 841794807]
+
+[Czwartek] Madryt -> Zagrzeb | Pasażerowie: 117/117 [LOT: 403700139]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-45768
+- PAS-45769
+
+[Czwartek] Mińsk -> Zagrzeb | Pasażerowie: 145/147 [LOT: 252849358]
+
+[Czwartek] Moskwa -> Warszawa | Pasażerowie: 107/109 [LOT: 585690630]
+
+[Czwartek] Wilno -> Reykjavik | Pasażerowie: 0/0 [LOT: 1219967992]
+
+[Czwartek] Skopje -> Budapeszt | Pasażerowie: 105/105 [LOT: 358529311]
+
+[Czwartek] Bruksela -> Berno | Pasażerowie: 0/0 [LOT: 1689712401]
+
+[Czwartek] Rzym -> Sztokholm | Pasażerowie: 0/0 [LOT: 852116279]
+
+[Czwartek] Ryga -> Sarajewo | Pasażerowie: 91/94 [LOT: 1085007947]
+
+[Czwartek] Bruksela -> Berno | Pasażerowie: 0/0 [LOT: 1721049829]
+
+[Czwartek] Sztokholm -> Berno | Pasażerowie: 93/93 [LOT: 1754148827]
+
+[Czwartek] Zagrzeb -> Kijów | Pasażerowie: 89/91 [LOT: 362472951]
+
+[Czwartek] Dublin -> Wilno | Pasażerowie: 148/150 [LOT: 671631202]
+
+[Czwartek] Paryż -> Mińsk | Pasażerowie: 134/134 [LOT: 2124738317]
+
+[Czwartek] Amsterdam -> Ateny | Pasażerowie: 137/138 [LOT: 417197436]
+
+[Czwartek] Bratysława -> Sofia | Pasażerowie: 109/112 [LOT: 910567021]
+
+[Czwartek] Ryga -> Kijów | Pasażerowie: 158/158 [LOT: 2093518020]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-47175
+- PAS-47176
+- PAS-47177
+- PAS-47178
+
+[Czwartek] Budapeszt -> Zagrzeb | Pasażerowie: 91/91 [LOT: 1805522231]
+
+[Czwartek] Sarajewo -> Bukareszt | Pasażerowie: 0/0 [LOT: 395095348]
+
+[Czwartek] Sarajewo -> Tallin | Pasażerowie: 105/106 [LOT: 943493769]
+
+[Czwartek] Wiedeń -> Londyn | Pasażerowie: 116/116 [LOT: 1860887923]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-47515
+- PAS-47516
+- PAS-47517
+- PAS-47518
+- PAS-47519
+
+[Czwartek] Podgorica -> Wilno | Pasażerowie: 139/139 [LOT: 177986672]
+
+[Czwartek] Bukareszt -> Ryga | Pasażerowie: 131/131 [LOT: 1653134369]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-47804
+- PAS-47805
+- PAS-47806
+- PAS-47807
+- PAS-47808
+
+[Czwartek] Podgorica -> Rzym | Pasażerowie: 155/156 [LOT: 1825305488]
+
+[Czwartek] Warszawa -> Skopje | Pasażerowie: 148/148 [LOT: 408700384]
+
+[Czwartek] Podgorica -> Warszawa | Pasażerowie: 160/160 [LOT: 501336568]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-48293
+- PAS-48294
+- PAS-48295
+- PAS-48296
+
+[Czwartek] Sofia -> Kopenhaga | Pasażerowie: 156/157 [LOT: 197026584]
+
+[Czwartek] Zagrzeb -> Ryga | Pasażerowie: 104/105 [LOT: 1160807134]
+
+[Czwartek] Bruksela -> Oslo | Pasażerowie: 134/136 [LOT: 308812046]
+
+[Czwartek] Berlin -> Wilno | Pasażerowie: 0/0 [LOT: 1154600619]
+
+[Czwartek] Wilno -> Sarajewo | Pasażerowie: 107/107 [LOT: 1081371788]
+
+[Czwartek] Oslo -> Praga | Pasażerowie: 142/145 [LOT: 1425918970]
+
+[Czwartek] Ankara -> Bukareszt | Pasażerowie: 156/158 [LOT: 1699129237]
+
+[Czwartek] Berno -> Moskwa | Pasażerowie: 138/141 [LOT: 2017199842]
+
+[Czwartek] Lizbona -> Wilno | Pasażerowie: 134/134 [LOT: 570977773]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-49427
+- PAS-49428
+
+[Czwartek] Kijów -> Oslo | Pasażerowie: 103/105 [LOT: 100299079]
+
+[Czwartek] Berlin -> Amsterdam | Pasażerowie: 110/110 [LOT: 260467513]
+
+[Czwartek] Oslo -> Londyn | Pasażerowie: 144/144 [LOT: 2134417566]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-49807
+- PAS-49808
+- PAS-49809
+- PAS-49810
+
+[Czwartek] Warszawa -> Rzym | Pasażerowie: 146/146 [LOT: 1325039589]
+
+[Czwartek] Bruksela -> Lizbona | Pasażerowie: 132/135 [LOT: 275245374]
+
+[Czwartek] Ryga -> Berlin | Pasażerowie: 95/96 [LOT: 2025050299]
+
+[Czwartek] Bruksela -> Kijów | Pasażerowie: 139/140 [LOT: 387305489]
+
+[Czwartek] Ateny -> Moskwa | Pasażerowie: 0/0 [LOT: 618856189]
+
+[Czwartek] Reykjavik -> Ankara | Pasażerowie: 158/158 [LOT: 1839379272]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-50519
+- PAS-50520
+- PAS-50521
+
+[Czwartek] Bukareszt -> Tirana | Pasażerowie: 121/121 [LOT: 876401269]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-50650
+- PAS-50651
+- PAS-50652
+- PAS-50653
+
+[Czwartek] Wiedeń -> Bukareszt | Pasażerowie: 0/0 [LOT: 1798271630]
+
+[Czwartek] Bratysława -> Belgrad | Pasażerowie: 131/131 [LOT: 1463829069]
+
+[Czwartek] Zagrzeb -> Bukareszt | Pasażerowie: 142/143 [LOT: 2093495926]
+
+[Czwartek] Podgorica -> Berlin | Pasażerowie: 0/0 [LOT: 423139282]
+
+[Czwartek] Reykjavik -> Bratysława | Pasażerowie: 120/123 [LOT: 43283400]
+
+[Czwartek] Belgrad -> Ankara | Pasażerowie: 0/0 [LOT: 1406580424]
+
+[Czwartek] Tirana -> Bruksela | Pasażerowie: 122/125 [LOT: 340410801]
+
+[Czwartek] Podgorica -> Sofia | Pasażerowie: 95/96 [LOT: 1098024221]
+
+[Czwartek] Sofia -> Warszawa | Pasażerowie: 0/0 [LOT: 1626386265]
+
+[Czwartek] Lizbona -> Sztokholm | Pasażerowie: 132/132 [LOT: 768410647]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-51450
+- PAS-51451
+- PAS-51452
+- PAS-51453
+- PAS-51454
+
+[Czwartek] Zagrzeb -> Berlin | Pasażerowie: 105/107 [LOT: 107662222]
+
+[Czwartek] Ankara -> Lizbona | Pasażerowie: 0/0 [LOT: 1885014731]
+
+[Czwartek] Oslo -> Mińsk | Pasażerowie: 117/120 [LOT: 1725020245]
+
+[Czwartek] Rzym -> Berlin | Pasażerowie: 150/151 [LOT: 1063341722]
+
+[Czwartek] Bruksela -> Kopenhaga | Pasażerowie: 104/104 [LOT: 1108519572]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-51962
+- PAS-51963
+
+[Czwartek] Sarajewo -> Rzym | Pasażerowie: 136/137 [LOT: 1750730939]
+
+[Czwartek] Mińsk -> Kijów | Pasażerowie: 94/96 [LOT: 2009872535]
+
+[Czwartek] Sofia -> Belgrad | Pasażerowie: 135/137 [LOT: 1022444874]
+
+[Czwartek] Rzym -> Bruksela | Pasażerowie: 89/90 [LOT: 105747519]
+
+[Czwartek] Mińsk -> Budapeszt | Pasażerowie: 0/0 [LOT: 763401493]
+
+[Czwartek] Ryga -> Kopenhaga | Pasażerowie: 115/117 [LOT: 763073549]
+
+[Czwartek] Praga -> Helsinki | Pasażerowie: 121/123 [LOT: 185049066]
+
+[Czwartek] Tallin -> Paryż | Pasażerowie: 113/113 [LOT: 737707056]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-52819
+- PAS-52820
+- PAS-52821
+- PAS-52822
+
+[Czwartek] Berno -> Sofia | Pasażerowie: 136/136 [LOT: 460842601]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-52966
+- PAS-52967
+- PAS-52968
+
+[Czwartek] Skopje -> Paryż | Pasażerowie: 146/146 [LOT: 649760599]
+
+[Czwartek] Bratysława -> Berno | Pasażerowie: 0/0 [LOT: 1267078811]
+
+[Czwartek] Ateny -> Bratysława | Pasażerowie: 140/143 [LOT: 2100216119]
+
+[Czwartek] Berlin -> Mińsk | Pasażerowie: 148/151 [LOT: 1797127242]
+
+[Czwartek] Skopje -> Paryż | Pasażerowie: 123/123 [LOT: 889662577]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-53557
+- PAS-53558
+
+[Czwartek] Helsinki -> Kopenhaga | Pasażerowie: 149/149 [LOT: 2010292043]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-53715
+
+[Czwartek] Kijów -> Ankara | Pasażerowie: 117/120 [LOT: 1676986769]
+
+[Czwartek] Wilno -> Sarajewo | Pasażerowie: 99/101 [LOT: 1770614586]
+
+[Czwartek] Kiszyniów -> Helsinki | Pasażerowie: 129/129 [LOT: 1583415405]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-54082
+- PAS-54083
+- PAS-54084
+- PAS-54085
+- PAS-54086
+
+[Czwartek] Madryt -> Budapeszt | Pasażerowie: 152/155 [LOT: 1257389989]
+
+[Czwartek] Kijów -> Oslo | Pasażerowie: 146/146 [LOT: 2118332813]
+
+[Czwartek] Budapeszt -> Rzym | Pasażerowie: 158/159 [LOT: 1006771158]
+
+[Czwartek] Sztokholm -> Sarajewo | Pasażerowie: 107/107 [LOT: 1880964926]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-54678
+- PAS-54679
+- PAS-54680
+- PAS-54681
+- PAS-54682
+
+[Czwartek] Londyn -> Ateny | Pasażerowie: 0/0 [LOT: 778691285]
+
+[Czwartek] Kiszyniów -> Paryż | Pasażerowie: 118/119 [LOT: 677307497]
+
+[Czwartek] Ryga -> Kopenhaga | Pasażerowie: 0/0 [LOT: 105687169]
+
+[Czwartek] Rzym -> Wilno | Pasażerowie: 110/110 [LOT: 1373427816]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-54931
+- PAS-54932
+- PAS-54933
+
+[Czwartek] Ateny -> Praga | Pasażerowie: 91/91 [LOT: 436977048]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-55032
+- PAS-55033
+- PAS-55034
+
+[Czwartek] Berno -> Kiszyniów | Pasażerowie: 0/100 [LOT: 802008416]
+
+[Czwartek] Londyn -> Tallin | Pasażerowie: 0/111 [LOT: 1409569996]
+
+[Czwartek] Skopje -> Sztokholm | Pasażerowie: 123/123 [LOT: 1611144609]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-55179
+- PAS-55180
+- PAS-55181
+- PAS-55182
+
+[Czwartek] Helsinki -> Wiedeń | Pasażerowie: 109/112 [LOT: 492044770]
+
+[Czwartek] Amsterdam -> Wiedeń | Pasażerowie: 118/120 [LOT: 964085660]
+
+[Czwartek] Belgrad -> Reykjavik | Pasażerowie: 0/0 [LOT: 899316691]
+
+[Czwartek] Tallin -> Bruksela | Pasażerowie: 108/110 [LOT: 898804189]
+
+[Czwartek] Wilno -> Bukareszt | Pasażerowie: 148/150 [LOT: 707369017]
+
+[Czwartek] Zagrzeb -> Berno | Pasażerowie: 154/155 [LOT: 1151149033]
+
+[Czwartek] Rzym -> Bratysława | Pasażerowie: 119/120 [LOT: 1114774529]
+
+[Czwartek] Reykjavik -> Tirana | Pasażerowie: 0/0 [LOT: 1450300737]
+
+[Czwartek] Praga -> Skopje | Pasażerowie: 93/96 [LOT: 1815025758]
+
+[Czwartek] Sztokholm -> Podgorica | Pasażerowie: 0/0 [LOT: 345359426]
+
+[Czwartek] Ankara -> Bukareszt | Pasażerowie: 0/0 [LOT: 1656832040]
+
+[Czwartek] Kiszyniów -> Tirana | Pasażerowie: 0/0 [LOT: 73657152]
+
+[Czwartek] Berlin -> Mińsk | Pasażerowie: 105/106 [LOT: 111834854]
+
+[Czwartek] Londyn -> Wilno | Pasażerowie: 145/145 [LOT: 16697086]
+
+[Czwartek] Zagrzeb -> Ateny | Pasażerowie: 115/115 [LOT: 91914198]
+
+[Czwartek] Wiedeń -> Madryt | Pasażerowie: 94/94 [LOT: 692744779]
+
+[Czwartek] Sarajewo -> Bruksela | Pasażerowie: 157/157 [LOT: 1165360178]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-56747
+- PAS-56748
+- PAS-56749
+- PAS-56750
+
+[Piątek] Mińsk -> Bruksela | Pasażerowie: 126/127 [LOT: 678901140]
+
+[Piątek] Tallin -> Lizbona | Pasażerowie: 0/138 [LOT: 1558248784]
+
+[Piątek] Kopenhaga -> Sarajewo | Pasażerowie: 118/120 [LOT: 1056221851]
+
+[Piątek] Ankara -> Kopenhaga | Pasażerowie: 148/151 [LOT: 1485499868]
+
+[Piątek] Belgrad -> Ryga | Pasażerowie: 0/0 [LOT: 1718453594]
+
+[Piątek] Podgorica -> Tallin | Pasażerowie: 117/118 [LOT: 553265266]
+
+[Piątek] Skopje -> Budapeszt | Pasażerowie: 125/126 [LOT: 51362999]
+
+[Piątek] Madryt -> Londyn | Pasażerowie: 137/139 [LOT: 1985859788]
+
+[Piątek] Podgorica -> Mińsk | Pasażerowie: 147/150 [LOT: 1385618787]
+
+[Piątek] Oslo -> Wilno | Pasażerowie: 137/137 [LOT: 717795035]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-57872
+- PAS-57873
+- PAS-57874
+- PAS-57875
+
+[Piątek] Berlin -> Wiedeń | Pasażerowie: 90/93 [LOT: 1064236258]
+
+[Piątek] Kijów -> Paryż | Pasażerowie: 149/150 [LOT: 487260051]
+
+[Piątek] Sarajewo -> Madryt | Pasażerowie: 0/0 [LOT: 247814591]
+
+[Piątek] Helsinki -> Oslo | Pasażerowie: 0/0 [LOT: 359111372]
+
+[Piątek] Sarajewo -> Podgorica | Pasażerowie: 139/139 [LOT: 274927135]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-58281
+- PAS-58282
+- PAS-58283
+
+[Piątek] Lizbona -> Belgrad | Pasażerowie: 151/152 [LOT: 950391023]
+
+[Piątek] Wilno -> Lizbona | Pasażerowie: 155/158 [LOT: 329760645]
+
+[Piątek] Sarajewo -> Lizbona | Pasażerowie: 116/116 [LOT: 173445603]
+
+[Piątek] Amsterdam -> Wiedeń | Pasażerowie: 102/103 [LOT: 2056558120]
+
+[Piątek] Wiedeń -> Belgrad | Pasażerowie: 113/113 [LOT: 1542259471]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-58956
+- PAS-58957
+- PAS-58958
+
+[Piątek] Belgrad -> Amsterdam | Pasażerowie: 132/135 [LOT: 1107302387]
+
+[Piątek] Skopje -> Sofia | Pasażerowie: 0/0 [LOT: 1320611661]
+
+[Piątek] Madryt -> Ankara | Pasażerowie: 0/0 [LOT: 1148970132]
+
+[Piątek] Zagrzeb -> Oslo | Pasażerowie: 154/155 [LOT: 1941779026]
+
+[Piątek] Madryt -> Berlin | Pasażerowie: 0/0 [LOT: 1624720645]
+
+[Piątek] Podgorica -> Reykjavik | Pasażerowie: 128/128 [LOT: 1236075992]
+
+[Piątek] Podgorica -> Kiszyniów | Pasażerowie: 130/133 [LOT: 109923281]
+
+[Piątek] Bruksela -> Skopje | Pasażerowie: 112/112 [LOT: 489195574]
+
+[Piątek] Wilno -> Moskwa | Pasażerowie: 144/147 [LOT: 1330892706]
+
+[Piątek] Ankara -> Amsterdam | Pasażerowie: 139/139 [LOT: 1830788031]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-59956
+- PAS-59957
+
+[Piątek] Ateny -> Bratysława | Pasażerowie: 150/152 [LOT: 863955119]
+
+[Piątek] Ateny -> Sztokholm | Pasażerowie: 0/0 [LOT: 1229918761]
+
+[Piątek] Londyn -> Ateny | Pasażerowie: 114/114 [LOT: 712658954]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-60239
+- PAS-60240
+- PAS-60241
+- PAS-60242
+
+[Piątek] Skopje -> Moskwa | Pasażerowie: 0/0 [LOT: 821706954]
+
+[Piątek] Skopje -> Rzym | Pasażerowie: 96/96 [LOT: 2000902286]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-60349
+- PAS-60350
+
+[Piątek] Bruksela -> Moskwa | Pasażerowie: 142/142 [LOT: 2079439347]
+
+[Piątek] Praga -> Tallin | Pasażerowie: 140/141 [LOT: 895627747]
+
+[Piątek] Kijów -> Bratysława | Pasażerowie: 97/97 [LOT: 863969312]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-60751
+- PAS-60752
+- PAS-60753
+
+[Piątek] Moskwa -> Sofia | Pasażerowie: 98/100 [LOT: 375168133]
+
+[Piątek] Bukareszt -> Ateny | Pasażerowie: 0/0 [LOT: 725503237]
+
+[Piątek] Skopje -> Kopenhaga | Pasażerowie: 150/150 [LOT: 809326396]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-61019
+- PAS-61020
+- PAS-61021
+- PAS-61022
+
+[Piątek] Reykjavik -> Kijów | Pasażerowie: 120/122 [LOT: 1584134213]
+
+[Piątek] Helsinki -> Ankara | Pasażerowie: 120/123 [LOT: 1483869014]
+
+[Piątek] Dublin -> Sztokholm | Pasażerowie: 91/94 [LOT: 1532905298]
+
+[Piątek] Reykjavik -> Londyn | Pasażerowie: 131/131 [LOT: 728891759]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-61513
+- PAS-61514
+- PAS-61515
+- PAS-61516
+- PAS-61517
+
+[Piątek] Rzym -> Reykjavik | Pasażerowie: 97/100 [LOT: 1264791524]
+
+[Piątek] Warszawa -> Madryt | Pasażerowie: 110/110 [LOT: 2136367113]
+
+[Piątek] Podgorica -> Mińsk | Pasażerowie: 0/0 [LOT: 1906039306]
+
+[Piątek] Rzym -> Wiedeń | Pasażerowie: 127/127 [LOT: 2072960753]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-61876
+- PAS-61877
+
+[Piątek] Podgorica -> Wilno | Pasażerowie: 121/123 [LOT: 2001029834]
+
+[Piątek] Sofia -> Kijów | Pasażerowie: 91/93 [LOT: 856548394]
+
+[Piątek] Paryż -> Belgrad | Pasażerowie: 127/127 [LOT: 540701962]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-62238
+- PAS-62239
+- PAS-62240
+- PAS-62241
+
+[Piątek] Sztokholm -> Bukareszt | Pasażerowie: 0/0 [LOT: 1089753162]
+
+[Piątek] Amsterdam -> Bratysława | Pasażerowie: 0/0 [LOT: 577414286]
+
+[Piątek] Ateny -> Tirana | Pasażerowie: 93/96 [LOT: 2080974127]
+
+[Piątek] Mińsk -> Sarajewo | Pasażerowie: 116/116 [LOT: 1799362604]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-62471
+
+[Piątek] Mińsk -> Paryż | Pasażerowie: 93/93 [LOT: 1116583617]
+
+[Piątek] Reykjavik -> Bratysława | Pasażerowie: 0/0 [LOT: 2078639011]
+
+[Piątek] Oslo -> Berno | Pasażerowie: 100/103 [LOT: 559108690]
+
+[Piątek] Tirana -> Bruksela | Pasażerowie: 101/101 [LOT: 984832479]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-62790
+- PAS-62791
+
+[Piątek] Skopje -> Tirana | Pasażerowie: 103/105 [LOT: 1675244370]
+
+[Piątek] Ryga -> Praga | Pasażerowie: 157/158 [LOT: 1590589318]
+
+[Piątek] Sarajewo -> Helsinki | Pasażerowie: 111/111 [LOT: 388154322]
+
+[Piątek] Amsterdam -> Berlin | Pasażerowie: 103/103 [LOT: 1248839059]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-63294
+- PAS-63295
+
+[Piątek] Rzym -> Kijów | Pasażerowie: 87/90 [LOT: 2110610319]
+
+[Piątek] Bukareszt -> Lizbona | Pasażerowie: 145/147 [LOT: 250157507]
+
+[Piątek] Ryga -> Budapeszt | Pasażerowie: 147/148 [LOT: 354736339]
+
+[Piątek] Moskwa -> Kiszyniów | Pasażerowie: 89/90 [LOT: 756977240]
+
+[Piątek] Bukareszt -> Rzym | Pasażerowie: 152/154 [LOT: 674439523]
+
+[Piątek] Tirana -> Helsinki | Pasażerowie: 0/0 [LOT: 1409371487]
+
+[Piątek] Kijów -> Mińsk | Pasażerowie: 134/134 [LOT: 1652606770]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-64095
+
+[Piątek] Berno -> Madryt | Pasażerowie: 110/112 [LOT: 1184477481]
+
+[Piątek] Sofia -> Kiszyniów | Pasażerowie: 0/0 [LOT: 907354517]
+
+[Piątek] Belgrad -> Bratysława | Pasażerowie: 104/104 [LOT: 681129232]
+
+[Piątek] Helsinki -> Oslo | Pasażerowie: 150/150 [LOT: 1426472959]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-64484
+- PAS-64485
+- PAS-64486
+- PAS-64487
+- PAS-64488
+
+[Piątek] Skopje -> Kijów | Pasażerowie: 0/0 [LOT: 1101835533]
+
+[Piątek] Bratysława -> Oslo | Pasażerowie: 157/157 [LOT: 194777858]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-64656
+- PAS-64657
+- PAS-64658
+- PAS-64659
+
+[Piątek] Podgorica -> Warszawa | Pasażerowie: 101/102 [LOT: 333249668]
+
+[Piątek] Budapeszt -> Kopenhaga | Pasażerowie: 102/105 [LOT: 75055708]
+
+[Piątek] Bruksela -> Mińsk | Pasażerowie: 128/128 [LOT: 481070766]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-65012
+- PAS-65013
+- PAS-65014
+- PAS-65015
+- PAS-65016
+
+[Piątek] Bruksela -> Warszawa | Pasażerowie: 114/117 [LOT: 2009303610]
+
+[Piątek] Oslo -> Paryż | Pasażerowie: 124/127 [LOT: 1327378658]
+
+[Piątek] Dublin -> Sarajewo | Pasażerowie: 91/91 [LOT: 1955050394]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-65367
+- PAS-65368
+
+[Piątek] Londyn -> Kiszyniów | Pasażerowie: 109/110 [LOT: 403220148]
+
+[Piątek] Budapeszt -> Skopje | Pasażerowie: 158/158 [LOT: 253789612]
+
+[Piątek] Madryt -> Reykjavik | Pasażerowie: 147/149 [LOT: 955779065]
+
+[Piątek] Warszawa -> Moskwa | Pasażerowie: 0/0 [LOT: 369346048]
+
+[Piątek] Kopenhaga -> Amsterdam | Pasażerowie: 137/139 [LOT: 321624196]
+
+[Piątek] Sarajewo -> Podgorica | Pasażerowie: 131/134 [LOT: 1033980304]
+
+[Piątek] Sofia -> Kijów | Pasażerowie: 139/142 [LOT: 2140638314]
+
+[Piątek] Rzym -> Moskwa | Pasażerowie: 95/98 [LOT: 180099562]
+
+[Piątek] Oslo -> Sofia | Pasażerowie: 124/124 [LOT: 1440910286]
+
+[Piątek] Ryga -> Berno | Pasażerowie: 0/0 [LOT: 1219893802]
+
+[Piątek] Kiszyniów -> Praga | Pasażerowie: 0/0 [LOT: 1471189792]
+
+[Piątek] Tallin -> Kijów | Pasażerowie: 104/104 [LOT: 437623043]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-66585
+- PAS-66586
+- PAS-66587
+
+[Piątek] Bukareszt -> Budapeszt | Pasażerowie: 91/91 [LOT: 1954075716]
+
+[Piątek] Skopje -> Kiszyniów | Pasażerowie: 101/102 [LOT: 491700634]
+
+[Piątek] Podgorica -> Ryga | Pasażerowie: 0/0 [LOT: 1934657566]
+
+[Piątek] Londyn -> Sofia | Pasażerowie: 118/121 [LOT: 1939990078]
+
+[Piątek] Reykjavik -> Kijów | Pasażerowie: 112/112 [LOT: 488196227]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-67041
+- PAS-67042
+- PAS-67043
+- PAS-67044
+- PAS-67045
+
+[Piątek] Bukareszt -> Kopenhaga | Pasażerowie: 93/93 [LOT: 1106855274]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-67146
+
+[Piątek] Kijów -> Podgorica | Pasażerowie: 90/91 [LOT: 896198480]
+
+[Piątek] Ryga -> Bukareszt | Pasażerowie: 139/139 [LOT: 1562769265]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-67390
+- PAS-67391
+- PAS-67392
+
+[Piątek] Kiszyniów -> Tallin | Pasażerowie: 143/143 [LOT: 173376824]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-67543
+- PAS-67544
+
+[Piątek] Ryga -> Skopje | Pasażerowie: 0/0 [LOT: 2070635442]
+
+[Piątek] Lizbona -> Dublin | Pasażerowie: 0/0 [LOT: 57954751]
+
+[Piątek] Bukareszt -> Bratysława | Pasażerowie: 105/108 [LOT: 127429527]
+
+[Piątek] Lizbona -> Podgorica | Pasażerowie: 0/0 [LOT: 1343159138]
+
+[Piątek] Mińsk -> Zagrzeb | Pasażerowie: 110/110 [LOT: 190826089]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-67783
+- PAS-67784
+
+[Piątek] Paryż -> Madryt | Pasażerowie: 108/108 [LOT: 1488493319]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-67900
+- PAS-67901
+
+[Piątek] Kopenhaga -> Madryt | Pasażerowie: 0/143 [LOT: 661227781]
+
+[Piątek] Zagrzeb -> Ankara | Pasażerowie: 121/123 [LOT: 1081844305]
+
+[Piątek] Tirana -> Helsinki | Pasażerowie: 92/94 [LOT: 29973785]
+
+[Piątek] Praga -> Podgorica | Pasażerowie: 156/156 [LOT: 1371527466]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-68299
+- PAS-68300
+- PAS-68301
+- PAS-68302
+- PAS-68303
+
+[Piątek] Bukareszt -> Kiszyniów | Pasażerowie: 154/156 [LOT: 915499582]
+
+[Piątek] Rzym -> Ryga | Pasażerowie: 0/0 [LOT: 129964201]
+
+[Piątek] Ateny -> Bratysława | Pasażerowie: 117/118 [LOT: 1690980818]
+
+[Piątek] Bruksela -> Lizbona | Pasażerowie: 150/150 [LOT: 787731916]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-68749
+- PAS-68750
+- PAS-68751
+- PAS-68752
+
+[Piątek] Berlin -> Amsterdam | Pasażerowie: 119/119 [LOT: 2115216442]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-68879
+- PAS-68880
+- PAS-68881
+
+[Piątek] Belgrad -> Kijów | Pasażerowie: 159/159 [LOT: 1626973166]
+
+[Piątek] Podgorica -> Madryt | Pasażerowie: 132/135 [LOT: 855550178]
+
+[Piątek] Sztokholm -> Paryż | Pasażerowie: 0/0 [LOT: 644302920]
+
+[Piątek] Lizbona -> Praga | Pasażerowie: 152/154 [LOT: 1636885997]
+
+[Piątek] Podgorica -> Paryż | Pasażerowie: 146/149 [LOT: 1581366959]
+
+[Piątek] Belgrad -> Dublin | Pasażerowie: 104/104 [LOT: 82088393]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-69613
+- PAS-69614
+- PAS-69615
+
+[Piątek] Sztokholm -> Podgorica | Pasażerowie: 134/134 [LOT: 659111263]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-69757
+- PAS-69758
+- PAS-69759
+
+[Piątek] Budapeszt -> Wiedeń | Pasażerowie: 122/122 [LOT: 1260421900]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-69889
+- PAS-69890
+
+[Piątek] Reykjavik -> Sarajewo | Pasażerowie: 93/93 [LOT: 393537534]
+
+[Piątek] Kiszyniów -> Berlin | Pasażerowie: 120/120 [LOT: 371804118]
+
+[Piątek] Kijów -> Podgorica | Pasażerowie: 0/157 [LOT: 18182669]
+
+[Piątek] Londyn -> Podgorica | Pasażerowie: 0/0 [LOT: 1793057419]
+
+[Piątek] Wiedeń -> Madryt | Pasażerowie: 102/103 [LOT: 1837464482]
+
+[Piątek] Bruksela -> Oslo | Pasażerowie: 94/97 [LOT: 1480314816]
+
+[Piątek] Wiedeń -> Bratysława | Pasażerowie: 130/131 [LOT: 1651412931]
+
+[Piątek] Lizbona -> Berno | Pasażerowie: 130/130 [LOT: 1063979553]
+
+[Piątek] Kiszyniów -> Amsterdam | Pasażerowie: 110/111 [LOT: 1449945882]
+
+[Piątek] Ateny -> Budapeszt | Pasażerowie: 0/0 [LOT: 358270249]
+
+[Piątek] Paryż -> Budapeszt | Pasażerowie: 92/95 [LOT: 89701282]
+
+[Piątek] Zagrzeb -> Amsterdam | Pasażerowie: 0/0 [LOT: 157547202]
+
+[Piątek] Skopje -> Amsterdam | Pasażerowie: 127/127 [LOT: 1889828245]
+
+[Piątek] Londyn -> Tirana | Pasażerowie: 0/0 [LOT: 600601849]
+
+[Piątek] Belgrad -> Wilno | Pasażerowie: 0/0 [LOT: 915542449]
+
+[Piątek] Reykjavik -> Rzym | Pasażerowie: 0/0 [LOT: 1973610951]
+
+[Piątek] Bruksela -> Kiszyniów | Pasażerowie: 127/130 [LOT: 547025815]
+
+[Piątek] Paryż -> Lizbona | Pasażerowie: 100/102 [LOT: 2041855265]
+
+[Piątek] Ateny -> Bruksela | Pasażerowie: 96/96 [LOT: 485836157]
+
+[Piątek] Podgorica -> Ateny | Pasażerowie: 0/0 [LOT: 1669445723]
+
+[Piątek] Kopenhaga -> Rzym | Pasażerowie: 0/0 [LOT: 589984622]
+
+[Piątek] Tallin -> Berlin | Pasażerowie: 97/97 [LOT: 1904173845]
+
+[Piątek] Zagrzeb -> Wilno | Pasażerowie: 113/113 [LOT: 115706263]
+
+[Piątek] Sztokholm -> Kijów | Pasażerowie: 122/122 [LOT: 167910539]
+
+[Piątek] Warszawa -> Tirana | Pasażerowie: 0/0 [LOT: 93581603]
+
+[Piątek] Wilno -> Sarajewo | Pasażerowie: 146/146 [LOT: 2004093219]
+
+[Sobota] Rzym -> Tallin | Pasażerowie: 128/128 [LOT: 760531720]
+
+[Sobota] Berlin -> Skopje | Pasażerowie: 152/152 [LOT: 613502700]
+
+[Sobota] Moskwa -> Kopenhaga | Pasażerowie: 0/0 [LOT: 1730010247]
+
+[Sobota] Bruksela -> Sztokholm | Pasażerowie: 114/114 [LOT: 2130171664]
+
+[Sobota] Praga -> Skopje | Pasażerowie: 0/0 [LOT: 162587487]
+
+[Sobota] Podgorica -> Oslo | Pasażerowie: 141/141 [LOT: 986848895]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-72405
+- PAS-72406
+- PAS-72407
+- PAS-72408
+
+[Sobota] Tirana -> Berlin | Pasażerowie: 101/101 [LOT: 1970460446]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-72517
+- PAS-72518
+- PAS-72519
+- PAS-72520
+- PAS-72521
+
+[Sobota] Berno -> Kopenhaga | Pasażerowie: 0/0 [LOT: 2037469188]
+
+[Sobota] Zagrzeb -> Reykjavik | Pasażerowie: 139/139 [LOT: 2131585964]
+
+[Sobota] Kijów -> Mińsk | Pasażerowie: 0/0 [LOT: 1668394208]
+
+[Sobota] Bruksela -> Dublin | Pasażerowie: 132/132 [LOT: 1068017119]
+
+[Sobota] Wilno -> Kijów | Pasażerowie: 157/157 [LOT: 893041613]
+
+[Sobota] Belgrad -> Londyn | Pasażerowie: 126/126 [LOT: 938778888]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-73110
+- PAS-73111
+- PAS-73112
+- PAS-73113
+- PAS-73114
+
+[Sobota] Rzym -> Wilno | Pasażerowie: 135/137 [LOT: 1843123941]
+
+[Sobota] Tirana -> Oslo | Pasażerowie: 0/0 [LOT: 1786887661]
+
+[Sobota] Bratysława -> Zagrzeb | Pasażerowie: 0/102 [LOT: 1688535545]
+
+[Sobota] Bukareszt -> Londyn | Pasażerowie: 152/155 [LOT: 1195918511]
+
+[Sobota] Sarajewo -> Amsterdam | Pasażerowie: 102/102 [LOT: 955765907]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-73535
+- PAS-73536
+- PAS-73537
+
+[Sobota] Sofia -> Kopenhaga | Pasażerowie: 152/152 [LOT: 1943527477]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-73697
+- PAS-73698
+- PAS-73699
+- PAS-73700
+
+[Sobota] Budapeszt -> Bruksela | Pasażerowie: 124/124 [LOT: 660457400]
+
+[Sobota] Dublin -> Berlin | Pasażerowie: 124/124 [LOT: 1735743578]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-73963
+- PAS-73964
+- PAS-73965
+
+[Sobota] Amsterdam -> Kiszyniów | Pasażerowie: 0/0 [LOT: 396860441]
+
+[Sobota] Sofia -> Kopenhaga | Pasażerowie: 120/121 [LOT: 1910330552]
+
+[Sobota] Podgorica -> Mińsk | Pasażerowie: 98/101 [LOT: 968705601]
+
+[Sobota] Kopenhaga -> Sarajewo | Pasażerowie: 0/0 [LOT: 2036278433]
+
+[Sobota] Berno -> Sarajewo | Pasażerowie: 133/136 [LOT: 2098667882]
+
+[Sobota] Helsinki -> Ankara | Pasażerowie: 138/141 [LOT: 2013156973]
+
+[Sobota] Belgrad -> Budapeszt | Pasażerowie: 0/0 [LOT: 508985522]
+
+[Sobota] Ryga -> Belgrad | Pasażerowie: 93/96 [LOT: 2113041331]
+
+[Sobota] Wiedeń -> Ryga | Pasażerowie: 130/132 [LOT: 1796791199]
+
+[Sobota] Ryga -> Paryż | Pasażerowie: 113/114 [LOT: 1912558698]
+
+[Sobota] Wiedeń -> Paryż | Pasażerowie: 0/0 [LOT: 1378938952]
+
+[Sobota] Ankara -> Oslo | Pasażerowie: 0/0 [LOT: 2036132163]
+
+[Sobota] Kijów -> Tallin | Pasażerowie: 150/150 [LOT: 1027258095]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-75012
+- PAS-75013
+
+[Sobota] Tallin -> Moskwa | Pasażerowie: 145/145 [LOT: 1885351184]
+
+[Sobota] Paryż -> Reykjavik | Pasażerowie: 0/152 [LOT: 2032578789]
+
+[Sobota] Lizbona -> Tirana | Pasażerowie: 123/125 [LOT: 1854272370]
+
+[Sobota] Skopje -> Oslo | Pasażerowie: 133/133 [LOT: 666394750]
+
+[Sobota] Budapeszt -> Tallin | Pasażerowie: 151/152 [LOT: 582320832]
+
+[Sobota] Berno -> Londyn | Pasażerowie: 0/0 [LOT: 1398799459]
+
+[Sobota] Bukareszt -> Madryt | Pasażerowie: 99/101 [LOT: 1685360680]
+
+[Sobota] Ryga -> Dublin | Pasażerowie: 127/127 [LOT: 1605862039]
+
+[Sobota] Budapeszt -> Wilno | Pasażerowie: 0/0 [LOT: 104396016]
+
+[Sobota] Sarajewo -> Praga | Pasażerowie: 130/130 [LOT: 741574698]
+
+[Sobota] Berno -> Ateny | Pasażerowie: 100/100 [LOT: 1878598433]
+
+[Sobota] Kopenhaga -> Bruksela | Pasażerowie: 149/149 [LOT: 867572551]
+
+[Sobota] Wiedeń -> Praga | Pasażerowie: 141/142 [LOT: 1872874525]
+
+[Sobota] Londyn -> Moskwa | Pasażerowie: 158/158 [LOT: 1617417260]
+
+[Sobota] Tirana -> Praga | Pasażerowie: 0/113 [LOT: 414188421]
+
+[Sobota] Warszawa -> Podgorica | Pasażerowie: 143/146 [LOT: 933162648]
+
+[Sobota] Skopje -> Wiedeń | Pasażerowie: 119/119 [LOT: 158206874]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-76843
+- PAS-76844
+- PAS-76845
+- PAS-76846
+
+[Sobota] Tirana -> Belgrad | Pasażerowie: 107/107 [LOT: 886162495]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-76961
+- PAS-76962
+- PAS-76963
+
+[Sobota] Rzym -> Londyn | Pasażerowie: 144/144 [LOT: 388436188]
+
+[Sobota] Rzym -> Podgorica | Pasażerowie: 94/94 [LOT: 1254887499]
+
+[Sobota] Paryż -> Ateny | Pasażerowie: 127/128 [LOT: 1340990052]
+
+[Sobota] Reykjavik -> Dublin | Pasażerowie: 98/98 [LOT: 1141887219]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-77455
+- PAS-77456
+- PAS-77457
+- PAS-77458
+
+[Sobota] Lizbona -> Podgorica | Pasażerowie: 104/104 [LOT: 561540185]
+
+[Sobota] Praga -> Mińsk | Pasażerowie: 121/123 [LOT: 1994296021]
+
+[Sobota] Ankara -> Zagrzeb | Pasażerowie: 0/0 [LOT: 1415395822]
+
+[Sobota] Belgrad -> Podgorica | Pasażerowie: 132/134 [LOT: 842843301]
+
+[Sobota] Ateny -> Budapeszt | Pasażerowie: 112/114 [LOT: 432271448]
+
+[Sobota] Skopje -> Helsinki | Pasażerowie: 109/109 [LOT: 741954357]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-78075
+- PAS-78076
+- PAS-78077
+- PAS-78078
+
+[Sobota] Podgorica -> Tallin | Pasażerowie: 155/155 [LOT: 189052804]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-78241
+- PAS-78242
+- PAS-78243
+- PAS-78244
+
+[Sobota] Budapeszt -> Londyn | Pasażerowie: 104/104 [LOT: 1652597614]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-78356
+
+[Sobota] Wilno -> Kiszyniów | Pasażerowie: 92/92 [LOT: 199093504]
+
+[Sobota] Kopenhaga -> Sofia | Pasażerowie: 105/105 [LOT: 954291551]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-78568
+
+[Sobota] Kiszyniów -> Dublin | Pasażerowie: 136/136 [LOT: 244257270]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-78712
+- PAS-78713
+- PAS-78714
+- PAS-78715
+- PAS-78716
+
+[Sobota] Sztokholm -> Budapeszt | Pasażerowie: 0/0 [LOT: 2018339810]
+
+[Sobota] Londyn -> Sofia | Pasażerowie: 149/152 [LOT: 102863854]
+
+[Sobota] Tirana -> Reykjavik | Pasażerowie: 101/102 [LOT: 1917835726]
+
+[Sobota] Zagrzeb -> Tallin | Pasażerowie: 102/102 [LOT: 506302836]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-79093
+- PAS-79094
+- PAS-79095
+- PAS-79096
+- PAS-79097
+
+[Sobota] Paryż -> Sofia | Pasażerowie: 101/102 [LOT: 319124811]
+
+[Sobota] Praga -> Berlin | Pasażerowie: 0/0 [LOT: 965975919]
+
+[Sobota] Reykjavik -> Wilno | Pasażerowie: 0/0 [LOT: 564596723]
+
+[Sobota] Wilno -> Madryt | Pasażerowie: 0/0 [LOT: 478728288]
+
+[Sobota] Sofia -> Wiedeń | Pasażerowie: 111/111 [LOT: 938798058]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-79333
+- PAS-79334
+- PAS-79335
+
+[Sobota] Tallin -> Tirana | Pasażerowie: 0/0 [LOT: 252291688]
+
+[Sobota] Helsinki -> Kiszyniów | Pasażerowie: 102/104 [LOT: 1792827653]
+
+[Sobota] Londyn -> Ateny | Pasażerowie: 135/136 [LOT: 1676147304]
+
+[Sobota] Mińsk -> Moskwa | Pasażerowie: 0/92 [LOT: 709108737]
+
+[Sobota] Skopje -> Warszawa | Pasażerowie: 90/92 [LOT: 2104691208]
+
+[Sobota] Kijów -> Mińsk | Pasażerowie: 88/90 [LOT: 1564378710]
+
+[Sobota] Kiszyniów -> Podgorica | Pasażerowie: 139/139 [LOT: 785460353]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-79935
+- PAS-79936
+- PAS-79937
+
+[Sobota] Wilno -> Helsinki | Pasażerowie: 112/115 [LOT: 174097402]
+
+[Sobota] Ankara -> Reykjavik | Pasażerowie: 0/0 [LOT: 864382509]
+
+[Sobota] Oslo -> Bruksela | Pasażerowie: 141/141 [LOT: 1312883496]
+
+[Sobota] Podgorica -> Bruksela | Pasażerowie: 97/99 [LOT: 1584358313]
+
+[Sobota] Paryż -> Berlin | Pasażerowie: 0/0 [LOT: 1767158765]
+
+[Sobota] Praga -> Mińsk | Pasażerowie: 107/110 [LOT: 836691511]
+
+[Sobota] Dublin -> Sofia | Pasażerowie: 116/117 [LOT: 737135305]
+
+[Sobota] Kopenhaga -> Skopje | Pasażerowie: 103/103 [LOT: 1537334254]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-80662
+
+[Sobota] Ryga -> Sofia | Pasażerowie: 98/100 [LOT: 1563923641]
+
+[Sobota] Moskwa -> Sztokholm | Pasażerowie: 131/131 [LOT: 1520249062]
+
+[Sobota] Oslo -> Zagrzeb | Pasażerowie: 118/120 [LOT: 1753731562]
+
+[Sobota] Bruksela -> Tallin | Pasażerowie: 133/136 [LOT: 1565531351]
+
+[Sobota] Madryt -> Oslo | Pasażerowie: 112/112 [LOT: 1916780170]
+
+[Sobota] Madryt -> Belgrad | Pasażerowie: 115/115 [LOT: 2081587599]
+
+[Sobota] Lizbona -> Amsterdam | Pasażerowie: 124/125 [LOT: 1115050061]
+
+[Sobota] Amsterdam -> Kijów | Pasażerowie: 146/146 [LOT: 1752496347]
+
+[Sobota] Kiszyniów -> Sofia | Pasażerowie: 119/119 [LOT: 373734205]
+
+[Sobota] Tallin -> Warszawa | Pasażerowie: 105/105 [LOT: 1977147518]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-81934
+- PAS-81935
+
+[Sobota] Londyn -> Zagrzeb | Pasażerowie: 123/123 [LOT: 457299506]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-82066
+- PAS-82067
+- PAS-82068
+- PAS-82069
+
+[Sobota] Dublin -> Ankara | Pasażerowie: 146/148 [LOT: 806101912]
+
+[Sobota] Helsinki -> Moskwa | Pasażerowie: 142/142 [LOT: 952095217]
+
+[Sobota] Mińsk -> Bratysława | Pasażerowie: 121/121 [LOT: 1776340097]
+
+[Sobota] Madryt -> Oslo | Pasażerowie: 140/142 [LOT: 460244656]
+
+[Sobota] Berlin -> Wilno | Pasażerowie: 0/0 [LOT: 726408773]
+
+[Sobota] Sofia -> Ryga | Pasażerowie: 0/0 [LOT: 539181825]
+
+[Sobota] Dublin -> Kopenhaga | Pasażerowie: 102/103 [LOT: 548873672]
+
+[Sobota] Ateny -> Praga | Pasażerowie: 88/90 [LOT: 1899299862]
+
+[Sobota] Skopje -> Berlin | Pasażerowie: 102/102 [LOT: 422325832]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-82966
+
+[Sobota] Sarajewo -> Moskwa | Pasażerowie: 137/140 [LOT: 1592199913]
+
+[Sobota] Budapeszt -> Skopje | Pasażerowie: 0/0 [LOT: 953132334]
+
+[Sobota] Paryż -> Ryga | Pasażerowie: 151/152 [LOT: 115392863]
+
+[Sobota] Kiszyniów -> Ankara | Pasażerowie: 132/132 [LOT: 380402323]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-83411
+- PAS-83412
+- PAS-83413
+- PAS-83414
+- PAS-83415
+
+[Sobota] Helsinki -> Berno | Pasażerowie: 0/0 [LOT: 1950917121]
+
+[Sobota] Amsterdam -> Bruksela | Pasażerowie: 150/151 [LOT: 1380328814]
+
+[Sobota] Bratysława -> Praga | Pasażerowie: 0/0 [LOT: 1060975867]
+
+[Sobota] Sarajewo -> Belgrad | Pasażerowie: 104/104 [LOT: 799725619]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-83690
+- PAS-83691
+- PAS-83692
+- PAS-83693
+
+[Sobota] Berno -> Ryga | Pasażerowie: 103/103 [LOT: 993315735]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-83804
+
+[Sobota] Dublin -> Ateny | Pasażerowie: 103/103 [LOT: 1842155020]
+
+[Sobota] Budapeszt -> Zagrzeb | Pasażerowie: 0/0 [LOT: 96224086]
+
+[Sobota] Podgorica -> Bruksela | Pasażerowie: 121/124 [LOT: 1952755709]
+
+[Sobota] Lizbona -> Wiedeń | Pasażerowie: 0/0 [LOT: 1084186650]
+
+[Sobota] Ateny -> Wilno | Pasażerowie: 89/92 [LOT: 478353350]
+
+[Sobota] Belgrad -> Dublin | Pasażerowie: 135/138 [LOT: 996237230]
+
+[Sobota] Budapeszt -> Berlin | Pasażerowie: 137/139 [LOT: 991350359]
+
+[Sobota] Rzym -> Zagrzeb | Pasażerowie: 157/160 [LOT: 1095470737]
+
+[Sobota] Berlin -> Tallin | Pasażerowie: 113/116 [LOT: 1203283783]
+
+[Sobota] Amsterdam -> Mińsk | Pasażerowie: 153/153 [LOT: 1567373857]
+
+[Sobota] Rzym -> Ateny | Pasażerowie: 126/129 [LOT: 1913918627]
+
+[Sobota] Rzym -> Budapeszt | Pasażerowie: 94/95 [LOT: 1562004429]
+
+[Sobota] Amsterdam -> Berlin | Pasażerowie: 0/0 [LOT: 1903598242]
+
+[Sobota] Praga -> Helsinki | Pasażerowie: 125/125 [LOT: 1903436986]
+
+[Sobota] Sztokholm -> Helsinki | Pasażerowie: 0/0 [LOT: 658174619]
+
+[Sobota] Reykjavik -> Sztokholm | Pasażerowie: 119/120 [LOT: 728008759]
+
+[Sobota] Lizbona -> Oslo | Pasażerowie: 0/0 [LOT: 1090233305]
+
+[Sobota] Ateny -> Amsterdam | Pasażerowie: 125/127 [LOT: 873667469]
+
+[Sobota] Zagrzeb -> Berlin | Pasażerowie: 0/0 [LOT: 2078245996]
+
+[Sobota] Dublin -> Ateny | Pasażerowie: 142/145 [LOT: 941701374]
+
+[Sobota] Madryt -> Moskwa | Pasażerowie: 154/154 [LOT: 369608700]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-85821
+- PAS-85822
+- PAS-85823
+- PAS-85824
+- PAS-85825
+
+[Sobota] Wiedeń -> Zagrzeb | Pasażerowie: 111/114 [LOT: 1136815383]
+
+[Sobota] Ankara -> Dublin | Pasażerowie: 121/123 [LOT: 852782183]
+
+[Sobota] Londyn -> Sofia | Pasażerowie: 89/90 [LOT: 1163503554]
+
+[Sobota] Wiedeń -> Moskwa | Pasażerowie: 0/0 [LOT: 1043968575]
+
+[Sobota] Kiszyniów -> Praga | Pasażerowie: 156/156 [LOT: 1624951057]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-86334
+- PAS-86335
+- PAS-86336
+
+[Sobota] Sztokholm -> Tirana | Pasażerowie: 0/0 [LOT: 1315381577]
+
+[Sobota] Sztokholm -> Dublin | Pasażerowie: 0/0 [LOT: 1394583095]
+
+[Sobota] Zagrzeb -> Rzym | Pasażerowie: 104/104 [LOT: 1322773875]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-86454
+- PAS-86455
+- PAS-86456
+
+[Sobota] Warszawa -> Reykjavik | Pasażerowie: 150/152 [LOT: 1610333002]
+
+[Sobota] Bukareszt -> Tallin | Pasażerowie: 117/120 [LOT: 301532887]
+
+[Sobota] Wiedeń -> Praga | Pasażerowie: 149/150 [LOT: 1382319708]
+
+[Sobota] Kijów -> Belgrad | Pasażerowie: 120/120 [LOT: 963626268]
+
+[Sobota] Sztokholm -> Madryt | Pasażerowie: 140/143 [LOT: 169443184]
+
+[Niedziela] Wilno -> Wiedeń | Pasażerowie: 124/124 [LOT: 696238617]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-87299
+- PAS-87300
+- PAS-87301
+- PAS-87302
+- PAS-87303
+
+[Niedziela] Zagrzeb -> Belgrad | Pasażerowie: 0/0 [LOT: 1424270556]
+
+[Niedziela] Sarajewo -> Tirana | Pasażerowie: 0/0 [LOT: 658463797]
+
+[Niedziela] Zagrzeb -> Praga | Pasażerowie: 0/0 [LOT: 1344621810]
+
+[Niedziela] Paryż -> Ryga | Pasażerowie: 105/106 [LOT: 1370733018]
+
+[Niedziela] Kiszyniów -> Skopje | Pasażerowie: 111/111 [LOT: 232100891]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-87543
+- PAS-87544
+
+[Niedziela] Warszawa -> Skopje | Pasażerowie: 148/148 [LOT: 1363270922]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-87700
+
+[Niedziela] Mińsk -> Amsterdam | Pasażerowie: 116/116 [LOT: 89472425]
+
+[Niedziela] Tallin -> Bruksela | Pasażerowie: 142/142 [LOT: 1479065462]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-87973
+- PAS-87974
+- PAS-87975
+- PAS-87976
+- PAS-87977
+
+[Niedziela] Mińsk -> Reykjavik | Pasażerowie: 147/149 [LOT: 387767964]
+
+[Niedziela] Ryga -> Rzym | Pasażerowie: 0/0 [LOT: 2116380383]
+
+[Niedziela] Ankara -> Budapeszt | Pasażerowie: 119/119 [LOT: 719605936]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-88261
+- PAS-88262
+- PAS-88263
+- PAS-88264
+- PAS-88265
+
+[Niedziela] Berlin -> Bukareszt | Pasażerowie: 127/129 [LOT: 173448547]
+
+[Niedziela] Berlin -> Podgorica | Pasażerowie: 0/0 [LOT: 253165443]
+
+[Niedziela] Helsinki -> Bukareszt | Pasażerowie: 123/123 [LOT: 1653313705]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-88533
+- PAS-88534
+- PAS-88535
+
+[Niedziela] Bukareszt -> Wiedeń | Pasażerowie: 96/96 [LOT: 1071651858]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-88639
+- PAS-88640
+- PAS-88641
+
+[Niedziela] Amsterdam -> Bukareszt | Pasażerowie: 104/107 [LOT: 1049066087]
+
+[Niedziela] Dublin -> Sofia | Pasażerowie: 107/107 [LOT: 339855641]
+
+[Niedziela] Rzym -> Praga | Pasażerowie: 104/107 [LOT: 734933315]
+
+[Niedziela] Bukareszt -> Podgorica | Pasażerowie: 116/119 [LOT: 1248830846]
+
+[Niedziela] Belgrad -> Zagrzeb | Pasażerowie: 128/128 [LOT: 573242578]
+
+[Niedziela] Bruksela -> Helsinki | Pasażerowie: 96/99 [LOT: 1870053487]
+
+[Niedziela] Belgrad -> Ateny | Pasażerowie: 105/108 [LOT: 1648227385]
+
+[Niedziela] Tallin -> Kopenhaga | Pasażerowie: 104/104 [LOT: 691106513]
+
+[Niedziela] Reykjavik -> Podgorica | Pasażerowie: 104/104 [LOT: 693364730]
+
+[Niedziela] Moskwa -> Kijów | Pasażerowie: 0/0 [LOT: 1385551008]
+
+[Niedziela] Mińsk -> Bukareszt | Pasażerowie: 142/145 [LOT: 1516699078]
+
+[Niedziela] Londyn -> Skopje | Pasażerowie: 0/117 [LOT: 674054364]
+
+[Niedziela] Ateny -> Podgorica | Pasażerowie: 0/129 [LOT: 2112608408]
+
+[Niedziela] Rzym -> Kiszyniów | Pasażerowie: 119/119 [LOT: 1919089133]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-89965
+- PAS-89966
+- PAS-89967
+- PAS-89968
+
+[Niedziela] Londyn -> Sztokholm | Pasażerowie: 160/160 [LOT: 515169851]
+
+[Niedziela] Sofia -> Londyn | Pasażerowie: 112/115 [LOT: 191599038]
+
+[Niedziela] Kiszyniów -> Wiedeń | Pasażerowie: 144/144 [LOT: 1097109778]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-90406
+- PAS-90407
+
+[Niedziela] Podgorica -> Helsinki | Pasażerowie: 0/0 [LOT: 1169807937]
+
+[Niedziela] Sztokholm -> Ryga | Pasażerowie: 0/0 [LOT: 963978882]
+
+[Niedziela] Ateny -> Belgrad | Pasażerowie: 126/126 [LOT: 1134975683]
+
+[Niedziela] Sofia -> Skopje | Pasażerowie: 110/111 [LOT: 534623760]
+
+[Niedziela] Ateny -> Bratysława | Pasażerowie: 108/111 [LOT: 406222749]
+
+[Niedziela] Kopenhaga -> Tallin | Pasażerowie: 132/132 [LOT: 614406037]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-90918
+- PAS-90919
+- PAS-90920
+
+[Niedziela] Kiszyniów -> Helsinki | Pasażerowie: 149/151 [LOT: 1080016563]
+
+[Niedziela] Ateny -> Kopenhaga | Pasażerowie: 0/140 [LOT: 2073864912]
+
+[Niedziela] Helsinki -> Wilno | Pasażerowie: 94/94 [LOT: 592212853]
+
+[Niedziela] Tallin -> Oslo | Pasażerowie: 150/150 [LOT: 1154757372]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-91342
+- PAS-91343
+- PAS-91344
+- PAS-91345
+
+[Niedziela] Paryż -> Berlin | Pasażerowie: 118/118 [LOT: 290594064]
+
+[Niedziela] Bruksela -> Wilno | Pasażerowie: 138/141 [LOT: 1502166534]
+
+[Niedziela] Amsterdam -> Kiszyniów | Pasażerowie: 127/127 [LOT: 785694906]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-91750
+- PAS-91751
+- PAS-91752
+- PAS-91753
+
+[Niedziela] Sofia -> Amsterdam | Pasażerowie: 98/98 [LOT: 534052357]
+
+[Niedziela] Praga -> Wilno | Pasażerowie: 122/123 [LOT: 1262403460]
+
+[Niedziela] Bruksela -> Ateny | Pasażerowie: 136/139 [LOT: 793626980]
+
+[Niedziela] Belgrad -> Podgorica | Pasażerowie: 131/131 [LOT: 190141362]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-92269
+- PAS-92270
+- PAS-92271
+- PAS-92272
+- PAS-92273
+
+[Niedziela] Kiszyniów -> Rzym | Pasażerowie: 130/131 [LOT: 864603122]
+
+[Niedziela] Berno -> Ateny | Pasażerowie: 140/141 [LOT: 863146166]
+
+[Niedziela] Skopje -> Ateny | Pasażerowie: 100/100 [LOT: 149484571]
+
+[Niedziela] Praga -> Oslo | Pasażerowie: 125/127 [LOT: 348684900]
+
+[Niedziela] Ryga -> Helsinki | Pasażerowie: 91/91 [LOT: 1868575799]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-92895
+- PAS-92896
+- PAS-92897
+- PAS-92898
+
+[Niedziela] Paryż -> Berlin | Pasażerowie: 0/134 [LOT: 1485865507]
+
+[Niedziela] Podgorica -> Mińsk | Pasażerowie: 121/121 [LOT: 1312699491]
+
+[Niedziela] Podgorica -> Moskwa | Pasażerowie: 0/0 [LOT: 1408245922]
+
+[Niedziela] Lizbona -> Warszawa | Pasażerowie: 110/110 [LOT: 1794568560]
+
+[Niedziela] Sztokholm -> Helsinki | Pasażerowie: 0/0 [LOT: 1126255976]
+
+[Niedziela] Tallin -> Londyn | Pasażerowie: 100/100 [LOT: 1394500575]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-93264
+- PAS-93265
+
+[Niedziela] Budapeszt -> Madryt | Pasażerowie: 137/140 [LOT: 364502612]
+
+[Niedziela] Sarajewo -> Bukareszt | Pasażerowie: 135/135 [LOT: 1385157873]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-93552
+- PAS-93553
+
+[Niedziela] Praga -> Amsterdam | Pasażerowie: 96/96 [LOT: 902053063]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-93657
+- PAS-93658
+- PAS-93659
+
+[Niedziela] Paryż -> Reykjavik | Pasażerowie: 0/0 [LOT: 1576379894]
+
+[Niedziela] Reykjavik -> Tirana | Pasażerowie: 150/153 [LOT: 1659273608]
+
+[Niedziela] Oslo -> Dublin | Pasażerowie: 130/132 [LOT: 1606896]
+
+[Niedziela] Kiszyniów -> Praga | Pasażerowie: 139/141 [LOT: 316466388]
+
+[Niedziela] Bratysława -> Sofia | Pasażerowie: 96/97 [LOT: 1960333885]
+
+[Niedziela] Lizbona -> Londyn | Pasażerowie: 0/0 [LOT: 19445233]
+
+[Niedziela] Podgorica -> Kiszyniów | Pasażerowie: 153/156 [LOT: 306291086]
+
+[Niedziela] Wilno -> Kiszyniów | Pasażerowie: 152/154 [LOT: 423460292]
+
+[Niedziela] Warszawa -> Tallin | Pasażerowie: 152/153 [LOT: 601905595]
+
+[Niedziela] Tallin -> Ankara | Pasażerowie: 158/160 [LOT: 1313912261]
+
+[Niedziela] Berno -> Bratysława | Pasażerowie: 0/0 [LOT: 1401909318]
+
+[Niedziela] Dublin -> Rzym | Pasażerowie: 90/90 [LOT: 1717473463]
+
+[Niedziela] Budapeszt -> Ateny | Pasażerowie: 94/96 [LOT: 1273675921]
+
+[Niedziela] Podgorica -> Reykjavik | Pasażerowie: 121/124 [LOT: 1514979549]
+
+[Niedziela] Ateny -> Kopenhaga | Pasażerowie: 127/128 [LOT: 88461890]
+
+[Niedziela] Bukareszt -> Budapeszt | Pasażerowie: 0/155 [LOT: 445398354]
+
+[Niedziela] Ryga -> Praga | Pasażerowie: 144/145 [LOT: 963167200]
+
+[Niedziela] Belgrad -> Bruksela | Pasażerowie: 117/119 [LOT: 1187723473]
+
+[Niedziela] Dublin -> Praga | Pasażerowie: 120/121 [LOT: 1581412015]
+
+[Niedziela] Zagrzeb -> Paryż | Pasażerowie: 0/0 [LOT: 1789325792]
+
+[Niedziela] Wilno -> Warszawa | Pasażerowie: 139/141 [LOT: 2137758792]
+
+[Niedziela] Amsterdam -> Belgrad | Pasażerowie: 150/153 [LOT: 1515494043]
+
+[Niedziela] Podgorica -> Berlin | Pasażerowie: 93/96 [LOT: 681103087]
+
+[Niedziela] Skopje -> Reykjavik | Pasażerowie: 110/110 [LOT: 874420211]
+
+[Niedziela] Bratysława -> Sofia | Pasażerowie: 156/156 [LOT: 1728198157]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-96410
+- PAS-96411
+- PAS-96412
+- PAS-96413
+
+[Niedziela] Warszawa -> Skopje | Pasażerowie: 0/0 [LOT: 778393208]
+
+[Niedziela] Tallin -> Podgorica | Pasażerowie: 159/159 [LOT: 1817571620]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-96583
+
+[Niedziela] Moskwa -> Dublin | Pasażerowie: 113/113 [LOT: 1393688748]
+
+[Niedziela] Budapeszt -> Podgorica | Pasażerowie: 155/155 [LOT: 1960138098]
+
+[Niedziela] Kijów -> Tallin | Pasażerowie: 157/158 [LOT: 108640470]
+
+[Niedziela] Kopenhaga -> Warszawa | Pasażerowie: 106/106 [LOT: 1253068477]
+
+[Niedziela] Helsinki -> Kijów | Pasażerowie: 124/124 [LOT: 2035419766]
+
+[Niedziela] Sztokholm -> Praga | Pasażerowie: 106/107 [LOT: 520764016]
+
+[Niedziela] Bruksela -> Reykjavik | Pasażerowie: 0/0 [LOT: 104861362]
+
+[Niedziela] Londyn -> Reykjavik | Pasażerowie: 0/0 [LOT: 2103301509]
+
+[Niedziela] Ankara -> Oslo | Pasażerowie: 110/110 [LOT: 29704430]
+
+[Niedziela] Lizbona -> Berno | Pasażerowie: 0/0 [LOT: 547951167]
+
+[Niedziela] Oslo -> Wiedeń | Pasażerowie: 142/142 [LOT: 659051365]
+
+[Niedziela] Reykjavik -> Sarajewo | Pasażerowie: 143/144 [LOT: 569999393]
+
+[Niedziela] Oslo -> Lizbona | Pasażerowie: 102/102 [LOT: 3853455]
+
+[Niedziela] Amsterdam -> Bukareszt | Pasażerowie: 103/104 [LOT: 427877917]
+
+[Niedziela] Kopenhaga -> Paryż | Pasażerowie: 120/120 [LOT: 892924872]
+
+[Niedziela] Zagrzeb -> Sofia | Pasażerowie: 107/107 [LOT: 1525055181]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-98272
+- PAS-98273
+- PAS-98274
+- PAS-98275
+- PAS-98276
+
+[Niedziela] Lizbona -> Kijów | Pasażerowie: 0/0 [LOT: 620451524]
+
+[Niedziela] Mińsk -> Ankara | Pasażerowie: 112/114 [LOT: 1958505533]
+
+[Niedziela] Kiszyniów -> Amsterdam | Pasażerowie: 124/124 [LOT: 2002066332]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-98530
+- PAS-98531
+- PAS-98532
+- PAS-98533
+
+[Niedziela] Praga -> Budapeszt | Pasażerowie: 101/102 [LOT: 1704768188]
+
+[Niedziela] Reykjavik -> Tirana | Pasażerowie: 157/158 [LOT: 863266547]
+
+[Niedziela] Bratysława -> Berlin | Pasażerowie: 125/125 [LOT: 844548644]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-98938
+- PAS-98939
+
+[Niedziela] Praga -> Belgrad | Pasażerowie: 0/0 [LOT: 575203703]
+
+[Niedziela] Warszawa -> Rzym | Pasażerowie: 134/134 [LOT: 4851795]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-99084
+- PAS-99085
+- PAS-99086
+
+[Niedziela] Lizbona -> Berlin | Pasażerowie: 0/0 [LOT: 833282374]
+
+[Niedziela] Ankara -> Rzym | Pasażerowie: 107/110 [LOT: 716784982]
+
+[Niedziela] Berno -> Londyn | Pasażerowie: 119/122 [LOT: 1055078109]
+
+[Niedziela] Ateny -> Wilno | Pasażerowie: 143/146 [LOT: 1533376861]
+
+[Niedziela] Tallin -> Sarajewo | Pasażerowie: 127/129 [LOT: 166948224]
+
+[Niedziela] Helsinki -> Amsterdam | Pasażerowie: 108/108 [LOT: 471476512]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-99729
+- PAS-99730
+- PAS-99731
+- PAS-99732
+- PAS-99733
+
+[Niedziela] Tirana -> Ateny | Pasażerowie: 150/153 [LOT: 1320009538]
+
+[Niedziela] Kiszyniów -> Reykjavik | Pasażerowie: 105/105 [LOT: 1254263267]
+
+[Niedziela] Paryż -> Helsinki | Pasażerowie: 144/144 [LOT: 891867523]
+
+[Niedziela] Podgorica -> Londyn | Pasażerowie: 128/130 [LOT: 398092979]
+
+[Niedziela] Skopje -> Berno | Pasażerowie: 150/150 [LOT: 1520425001]
+
+[Niedziela] Dublin -> Praga | Pasażerowie: 158/158 [LOT: 524691033]
+
+[Niedziela] Praga -> Oslo | Pasażerowie: 149/149 [LOT: 1533080340]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-100767
+- PAS-100768
+- PAS-100769
+- PAS-100770
+- PAS-100771
+
+[Niedziela] Amsterdam -> Bratysława | Pasażerowie: 124/125 [LOT: 483517192]
+
+[Niedziela] Reykjavik -> Moskwa | Pasażerowie: 110/110 [LOT: 95300432]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-101020
+
+[Niedziela] Amsterdam -> Ateny | Pasażerowie: 99/99 [LOT: 344469816]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-101127
+- PAS-101128
+
+[Niedziela] Berlin -> Tallin | Pasażerowie: 0/0 [LOT: 1509569958]
+
+[Niedziela] Kopenhaga -> Wiedeń | Pasażerowie: 0/0 [LOT: 667485483]
+
+[Niedziela] Sofia -> Bukareszt | Pasażerowie: 95/95 [LOT: 1139820216]
+
+[Niedziela] Sarajewo -> Bukareszt | Pasażerowie: 114/114 [LOT: 2045131902]
+
+[Niedziela] Ryga -> Amsterdam | Pasażerowie: 129/129 [LOT: 446442528]
+Nie zmieścili się pasażerowie (numery paszportów):
+- PAS-101494
+- PAS-101495
+
+=== LOTY ODWOŁANE ===
+Liczba odwołanych lotów: 34
+[LOT: 352895152] Bratysława -> Rzym (Poniedziałek)
+[LOT: 1273824992] Warszawa -> Reykjavik (Poniedziałek)
+[LOT: 1576468030] Budapeszt -> Tallin (Poniedziałek)
+[LOT: 578035191] Amsterdam -> Berno (Poniedziałek)
+[LOT: 657703759] Helsinki -> Sofia (Wtorek)
+[LOT: 1407357640] Lizbona -> Helsinki (Wtorek)
+[LOT: 805905034] Oslo -> Rzym (Wtorek)
+[LOT: 1134609579] Lizbona -> Dublin (Wtorek)
+[LOT: 645658541] Berno -> Lizbona (Wtorek)
+[LOT: 1776713845] Bukareszt -> Moskwa (Środa)
+[LOT: 766305650] Wilno -> Helsinki (Środa)
+[LOT: 255054546] Berlin -> Skopje (Środa)
+[LOT: 475023458] Sofia -> Oslo (Środa)
+[LOT: 1295997186] Mińsk -> Rzym (Środa)
+[LOT: 1680167606] Kijów -> Dublin (Środa)
+[LOT: 1154600619] Berlin -> Wilno (Czwartek)
+[LOT: 1885014731] Ankara -> Lizbona (Czwartek)
+[LOT: 802008416] Berno -> Kiszyniów (Czwartek)
+[LOT: 1409569996] Londyn -> Tallin (Czwartek)
+[LOT: 1558248784] Tallin -> Lizbona (Piątek)
+[LOT: 661227781] Kopenhaga -> Madryt (Piątek)
+[LOT: 18182669] Kijów -> Podgorica (Piątek)
+[LOT: 1688535545] Bratysława -> Zagrzeb (Sobota)
+[LOT: 2032578789] Paryż -> Reykjavik (Sobota)
+[LOT: 414188421] Tirana -> Praga (Sobota)
+[LOT: 965975919] Praga -> Berlin (Sobota)
+[LOT: 709108737] Mińsk -> Moskwa (Sobota)
+[LOT: 1084186650] Lizbona -> Wiedeń (Sobota)
+[LOT: 674054364] Londyn -> Skopje (Niedziela)
+[LOT: 2112608408] Ateny -> Podgorica (Niedziela)
+[LOT: 2073864912] Ateny -> Kopenhaga (Niedziela)
+[LOT: 1485865507] Paryż -> Berlin (Niedziela)
+[LOT: 1126255976] Sztokholm -> Helsinki (Niedziela)
+[LOT: 445398354] Bukareszt -> Budapeszt (Niedziela)
+
+=== BUDŻETY LOTNISK ===
+Bruksela: 2370000,00 zł
+Podgorica: 2210000,00 zł
+Skopje: 1965000,00 zł
+Kiszyniów: 1919000,00 zł
+Sofia: 1831000,00 zł
+Tallin: 1717000,00 zł
+Ryga: 1678000,00 zł
+Bukareszt: 1550000,00 zł
+Belgrad: 1549000,00 zł
+Reykjavik: 1535000,00 zł
+Oslo: 1510000,00 zł
+Budapeszt: 1501000,00 zł
+Kijów: 1476000,00 zł
+Londyn: 1471000,00 zł
+Rzym: 1451000,00 zł
+Mińsk: 1417000,00 zł
+Dublin: 1385000,00 zł
+Tirana: 1345000,00 zł
+Berlin: 1341000,00 zł
+Wilno: 1303000,00 zł
+Warszawa: 1256000,00 zł
+Madryt: 1238000,00 zł
+Sarajewo: 1183000,00 zł
+Helsinki: 1162000,00 zł
+Amsterdam: 1140000,00 zł
+Zagrzeb: 1119000,00 zł
+Ateny: 1097000,00 zł
+Moskwa: 1089000,00 zł
+Kopenhaga: 1064000,00 zł
+Paryż: 1049000,00 zł
+Berno: 1038000,00 zł
+Praga: 998000,00 zł
+Ankara: 943000,00 zł
+Lizbona: 919000,00 zł
+Wiedeń: 917000,00 zł
+Bratysława: 800000,00 zł
+Sztokholm: 652000,00 zł
+
+Najlepiej zarabiające lotnisko: Bruksela (2370000,00 zł)
+Najgorzej zarabiające lotnisko: Sztokholm (652000,00 zł)
+
+=== NAJBARDZIEJ OBCIĄŻONA TRASA ===
+Podgorica -> Mińsk | liczba lotów: 5 

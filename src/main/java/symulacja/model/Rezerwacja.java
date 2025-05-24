@@ -11,8 +11,4 @@ public class Rezerwacja {
         this.pasazer = pasazer;
         this.lot = lot;
     }
-
-    public String getSzczegoly() {
-        return pasazer.getNumerPaszportu() + " → " + lot.getCel();
-    }
 }

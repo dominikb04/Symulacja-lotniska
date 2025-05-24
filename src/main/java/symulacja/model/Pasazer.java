@@ -19,22 +19,6 @@ public class Pasazer extends Osoba {
         rezerwacje.add(r);
     }
 
-    public List<Rezerwacja> getRezerwacje() {
-        return rezerwacje;
-    }
-
-    public String getSkad() {
-        return skad;
-    }
-
-    public String getDokad() {
-        return dokad;
-    }
-
-    public String getDzienLotu() {
-        return dzienLotu;
-    }
-
     public void setDzienLotu(String dzienLotu) {
         this.dzienLotu = dzienLotu;
     }

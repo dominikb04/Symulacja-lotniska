@@ -6,14 +6,56 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Reprezentuje lotnisko z listą dostępnych lotów.
+ * Reprezentuje lotnisko, które obsługuje loty w ciągu tygodnia oraz posiada budżet.
  */
 public class Lotnisko {
+
+    // === Pola ===
     private String nazwa;
     private final Klimat klimat;
     private Map<String, List<Lot>> lotyWTygodniu = new HashMap<>();
-
     private double budzet = 0;
+
+    // === Konstruktor ===
+    public Lotnisko(String nazwa, Klimat klimat) {
+        this.nazwa = nazwa;
+        this.klimat = klimat;
+    }
+
+    // === Gettery ===
+
+    public String getNazwa() {
+        return nazwa;
+    }
+
+    public double getBudzet() {
+        return budzet;
+    }
+
+    public Map<String, List<Lot>> getLotyWTygodniu() {
+        return lotyWTygodniu;
+    }
+
+    /**
+     * Zwraca listę lotów przypisanych do konkretnego dnia tygodnia.
+     */
+    public List<Lot> getLotyNaDzien(String dzien) {
+        return lotyWTygodniu.getOrDefault(dzien, new ArrayList<>());
+    }
+
+    /**
+     * (Tymczasowe) Zwraca wszystkie loty niezależnie od dnia tygodnia.
+     */
+    @Deprecated
+    public List<Lot> getDostepneLoty() {
+        List<Lot> wszystkie = new ArrayList<>();
+        for (List<Lot> dzienneLoty : lotyWTygodniu.values()) {
+            wszystkie.addAll(dzienneLoty);
+        }
+        return wszystkie;
+    }
+
+    // === Modyfikatory budżetu ===
 
     public void dodajPrzychod(double kwota) {
         budzet += kwota;
@@ -27,38 +69,13 @@ public class Lotnisko {
         budzet -= kwota;
     }
 
-    public double getBudzet() {
-        return budzet;
-    }
-    public Lotnisko(String nazwa, Klimat klimat) {
-        this.nazwa = nazwa;
-        this.klimat = klimat;
-    }
+    // === Modyfikatory listy lotów ===
 
-    public List<Lot> getLotyNaDzien(String dzien) {
-        return lotyWTygodniu.getOrDefault(dzien, new ArrayList<>());
-    }
-
-    public Map<String, List<Lot>> getLotyWTygodniu() {
-        return lotyWTygodniu;
-    }
-
+    /**
+     * Dodaje lot do listy przypisanej do danego dnia tygodnia.
+     */
     public void dodajLot(String dzien, Lot lot) {
         lotyWTygodniu.computeIfAbsent(dzien, k -> new ArrayList<>()).add(lot);
-    }
-
-    @Deprecated
-    public List<Lot> getDostepneLoty() {
-        // Zwraca wszystkie loty z całego tygodnia — tylko tymczasowo!
-        List<Lot> wszystkie = new ArrayList<>();
-        for (List<Lot> dzienneLoty : lotyWTygodniu.values()) {
-            wszystkie.addAll(dzienneLoty);
-        }
-        return wszystkie;
-    }
-
-    public String getNazwa() {
-        return nazwa;
     }
 }
 

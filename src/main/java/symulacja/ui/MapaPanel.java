@@ -17,7 +17,8 @@ public class MapaPanel extends JPanel {
     private BufferedImage mapa;
     private BufferedImage ikonaSamolotu;
     private BufferedImage ikonaTowarowa;
-
+    private BufferedImage ikonaSamolotuOdwolany;
+    private BufferedImage ikonaTowarowaOdwolany;
     private final List<Lot> wszystkieLoty;
     private final List<FlightAnimation> activeFlights = new ArrayList<>();
     private final Timer timer;
@@ -79,6 +80,8 @@ public class MapaPanel extends JPanel {
             mapa = ImageIO.read(getClass().getResource("/europa.png"));
             ikonaSamolotu = ImageIO.read(getClass().getResource("/ikonkaS.png"));
             ikonaTowarowa = ImageIO.read(getClass().getResource("/ikonkaT.png"));
+            ikonaSamolotuOdwolany = ImageIO.read(getClass().getResource("/ikonkaSO.png"));
+            ikonaTowarowaOdwolany = ImageIO.read(getClass().getResource("/ikonkaTO.png"));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -106,23 +109,21 @@ public class MapaPanel extends JPanel {
     public void wyswietlDzien(String dzien) {
         activeFlights.clear();
 
-        int licznik = 0;
         for (Lot lot : wszystkieLoty) {
             String dzienLotu = lot.getDzienTygodnia();
-            if (dzienLotu != null && dzien.equalsIgnoreCase(dzienLotu) && !lot.isOdwolany()) {
-                boolean towarowy = lot.getSamolot() instanceof SamolotTowarowy;
-                dodajPrzelot(lot.getStart(), lot.getCel(), towarowy);
-                licznik++;
+            if (dzienLotu != null && dzien.equalsIgnoreCase(dzienLotu)) {
+                dodajPrzelot(lot);
             }
         }
         repaint();
     }
 
-    public void dodajPrzelot(String z, String do_, boolean towarowy) {
-        Point start = stolice.get(z);
-        Point end = stolice.get(do_);
+    public void dodajPrzelot(Lot lot) {
+        Point start = stolice.get(lot.getStart());
+        Point end = stolice.get(lot.getCel());
+        boolean towarowy = lot.getSamolot() instanceof SamolotTowarowy;
         if (start != null && end != null) {
-            activeFlights.add(new FlightAnimation(start, end, towarowy));
+            activeFlights.add(new FlightAnimation(lot, start, end, towarowy));
         }
     }
 
@@ -145,7 +146,16 @@ public class MapaPanel extends JPanel {
         }
 
         for (FlightAnimation flight : activeFlights) {
-            BufferedImage ikona = flight.isTowarowy() ? ikonaTowarowa : ikonaSamolotu;
+            Lot lot = flight.getLot();
+            boolean odwolany = lot.isOdwolany();
+
+            BufferedImage ikona;
+            if (flight.isTowarowy()) {
+                ikona = odwolany ? ikonaTowarowaOdwolany : ikonaTowarowa;
+            } else {
+                ikona = odwolany ? ikonaSamolotuOdwolany : ikonaSamolotu;
+            }
+
             Point2D.Double pos = flight.getCurrent();
             int x = (int) pos.x - ikona.getWidth() / 2;
             int y = (int) pos.y - ikona.getHeight() / 2;
@@ -168,12 +178,18 @@ public class MapaPanel extends JPanel {
         private final int steps = 100;
         private int step = 0;
         private final boolean towarowy;
+        private final Lot lot;
 
-        public FlightAnimation(Point start, Point end, boolean towarowy) {
+        public FlightAnimation(Lot lot, Point start, Point end, boolean towarowy) {
+            this.lot = lot;
             this.current = new Point2D.Double(start.x, start.y);
             this.dx = (end.x - start.x) / (double) steps;
             this.dy = (end.y - start.y) / (double) steps;
             this.towarowy = towarowy;
+        }
+
+        public Lot getLot() {
+            return lot;
         }
 
         public boolean updatePosition() {
