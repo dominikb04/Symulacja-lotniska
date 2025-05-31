@@ -6,7 +6,6 @@ import javax.swing.Timer;
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
 import java.awt.geom.Point2D;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
@@ -28,6 +27,7 @@ public class MapaPanel extends JPanel {
     );
     private int indeksDnia = 0;
     private String aktualnyDzien = dniTygodnia.get(0);
+    // wszystkie wspolrzedne stolic zapisane w hashmapie:
     private static final Map<String, Point> stolice = new HashMap<>(Map.ofEntries(
             Map.entry("Warszawa", new Point(526, 463)),
             Map.entry("Berlin", new Point(416, 464)),
@@ -74,6 +74,7 @@ public class MapaPanel extends JPanel {
 
     public MapaPanel(List<Lot> lotyZSymulacji) {
         this.wszystkieLoty = lotyZSymulacji;
+        // ustawiona rozdzielczosc okna dopasowana do rozdzielczosci mapy
         setPreferredSize(new Dimension(1024, 876));
 
         try {
@@ -131,9 +132,11 @@ public class MapaPanel extends JPanel {
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
 
+        // antyaliasing dla wygladzenia kropek narysowanych na mapie
         Graphics2D g2d = (Graphics2D) g;
         g2d.setRenderingHint(RenderingHints.KEY_ANTIALIASING, RenderingHints.VALUE_ANTIALIAS_ON);
 
+        // rysowanie kropek
         if (mapa != null) {
             g2d.drawImage(mapa, 0, 0, this);
             g2d.setColor(Color.BLACK);
@@ -145,6 +148,7 @@ public class MapaPanel extends JPanel {
             }
         }
 
+        // animacje lotu
         for (FlightAnimation flight : activeFlights) {
             Lot lot = flight.getLot();
             boolean odwolany = lot.isOdwolany();

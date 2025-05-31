@@ -215,12 +215,4 @@ public class Main {
         System.out.println("\nWyniki zostały zapisane do pliku: symulacja_wyniki.txt");
     }
 
-    public static Map<String, Lotnisko> getLotniska() {
-        return lotniska;
-    }
-
-    private static Lotnisko losoweLotnisko(Collection<Lotnisko> lotniska, Random rand) {
-        List<Lotnisko> lista = new ArrayList<>(lotniska);
-        return lista.get(rand.nextInt(lista.size()));
-    }
 }
